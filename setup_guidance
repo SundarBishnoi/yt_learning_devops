@@ -1,0 +1,34 @@
+1. Create and Set Up the Environment
+Run these commands in your EC2 terminal:
+
+bash
+# Ensure the full Python environment toolset is installed
+sudo apt update && sudo apt install python3-full -y
+
+# Create a virtual environment named .venv in your project folder
+python3 -m venv .venv
+
+# Activate the environment
+source .venv/bin/activate
+
+# Install the required kernel library inside the environment
+pip install ipykernel
+
+-----
+
+2. Connect VS Code to the Environment
+
+Open your .ipynb notebook file inside VS Code.
+
+Look at the top-right corner of the notebook window and click Select Kernel (or click on the existing Python version displayed there).
+
+Choose Python Environments... from the dropdown.
+
+Select the .venv environment you just created.
+
+    (Ctrl + Shift + P => Python: Select Interpreter => Refresh icon => Look for your virtual environment path (it will show something like ./.venv/bin/python) and click on it
+    OR
+    Enter interpreter path -> Find... -> Type or navigate to the path of your virtual environment. )
+
+VS Code will now use this isolated environment to run your notebook cells without triggering any system errors.
+
