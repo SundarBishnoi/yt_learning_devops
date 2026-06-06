@@ -1,18 +1,25 @@
 #!/bin/bash
 
-# Check 1: Is VS Code active?
-VSCODE_ACTIVE=0
-if ps aux | grep -E "vscode-server|node" | grep -v grep > /dev/null; then
-    VSCODE_ACTIVE=1
-fi
+# Clear system execution paths so cron can run tools reliably
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
 
-# Check 2: Is any standard SSH terminal open?
-SSH_ACTIVE=0
-if ps aux | grep "sshd:" | grep -v grep > /dev/null; then
-    SSH_ACTIVE=1
-fi
+# Print current timestamp alongside the log message
+TIMESTAMP=$(date "+%Y-%m-%d %H:%M:%S")
 
-# Shut down ONLY if both are completely idle (0)
-if [ $VSCODE_ACTIVE -eq 0 ] && [ $SSH_ACTIVE -eq 0 ]; then
+# Check: Look for active, interactive SSH login bash streams belonging to ubuntu
+# This ignores dead ghost sockets and targets actual live window sessions
+ACTIVE_TERMINALS=$(ps aux | grep 'sshd: ubuntu@' | grep -v grep | wc -l)
+
+if [ "$ACTIVE_TERMINALS" -eq 0 ]; then
+    echo "[$TIMESTAMP] No active interactive SSH windows found (Count: $ACTIVE_TERMINALS). Shutting down." >> /var/log/auto-stop.log
     /sbin/shutdown -h now
+else
+    echo "[$TIMESTAMP] Interactive VS Code session is live (Count: $ACTIVE_TERMINALS). Keeping instance awake." >> /var/log/auto-stop.log
+    
+    # 🧹 Log Housekeeping: Keep only the last 50 lines
+    if [ -f /var/log/auto-stop.log ]; then
+        CLEANED_LOGS=$(tail -n 50 /var/log/auto-stop.log)
+        echo "$CLEANED_LOGS" > /var/log/auto-stop.log
+    fi
 fi
+
