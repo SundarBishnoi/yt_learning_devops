@@ -122,9 +122,9 @@ if current_run_list:
     desired_order = [
         'id', 'site', 'is_remote_flag', 'work_from_home_type', 'emails', 'job_url', 
         'title', 'company', 'location', 'date_posted', 'job_type', 'is_remote', 
-        'job_level', 'description', 'company_url', 'skills', 'experience_range', 
+        'job_level', 'company_url', 'skills', 'experience_range',
         'company_rating', 'company_reviews_count', 'vacancy_count', 
-        'scrape_timestamp', 'job_url_direct'
+        'scrape_timestamp', 'job_url_direct', 'description'
     ]
     
     existing_desired = [col for col in desired_order if col in master_df.columns]
