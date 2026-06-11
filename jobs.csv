@@ -1,0 +1,198 @@
+"id","site","is_remote_flag","work_from_home_type","emails","job_url","title","company","location","date_posted","job_type","is_remote","job_level","description","company_url","skills","experience_range","company_rating","company_reviews_count","vacancy_count","scrape_timestamp","job_url_direct","salary_source","interval","min_amount","max_amount","currency","job_function","listing_type","company_industry","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description"
+"in-93f38966ee31c642","indeed","Onsite/Hybrid",,,"https://in.indeed.com/viewjob?jk=93f38966ee31c642","Senior Devops Engineer","Optum","UP, IN","2026-06-10","fulltime",False,,"Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the communities we serve as you help us advance health optimization on a global scale. Join us to start **Caring. Connecting. Growing together.**
+
+A seasoned and forward-thinking Infrastructure & DevOps Engineer with deep expertise in designing scalable, resilient, and automated infrastructure solutions. This role operates in a high-performing team of engineers responsible for building and maintaining modern DevOps ecosystems, leveraging Infrastructure as Code (IaC), container orchestration, CI/CD pipelines, and cloud-native technologies. The ideal candidate combines solid technical acumen with leadership capabilities to drive innovation, operational excellence, and continuous improvement across the infrastructure landscape in a 16X5 Rotational Shift Model.
+
+**Primary Responsibilities:**
+
+* Design and implement Infrastructure as Code (IaC) using tools like Terraform
+* Automate operational tasks using Python and other scripting languages
+* Leverage AI tools and AIOps to optimize operations and reduce manual overhead
+* Build and maintain CI/CD pipelines using Jenkins, GitHub Actions, GitLab CI, or Azure DevOps
+* Implement Agentic DevOps practices to enhance automation and decision-making
+* Monitor infrastructure using Prometheus, Grafana, and Datadog; lead incident response and root cause analysis
+* Deploy and manage containerized applications using Docker and Kubernetes
+* Use Ansible or Chef for configuration management and provisioning
+* Manage cloud infrastructure across AWS, Azure, and Google Cloud, ensuring cost-efficiency and scalability
+* Automate machine image creation using Packer for consistent environments
+* Collaborate with development and QA teams to ensure seamless software delivery
+* Mentor junior engineers and promote best practices across the team
+* Lead system integration projects and consult with stakeholders to align infrastructure with business goals
+* Provide training and support on new systems and technologies
+* Stay current with industry trends and emerging technologies
+* Adhere to company policies and demonstrate flexibility in adapting to evolving business needs
+* Comply with the terms and conditions of the employment contract, company policies and procedures, and any and all directives (such as, but not limited to, transfer and/or re-assignment to different work locations, change in teams and/or work shifts, policies in regards to flexibility of work benefits and/or work environment, alternative work arrangements, and other decisions that may arise due to the changing business environment). The Company may adopt, vary or rescind these policies and directives in its absolute discretion and without any limitation (implied or otherwise) on its ability to do so
+
+**Required Qualifications:**
+
+* Bachelor's degree in Computer Science, Engineering, or a related field
+* Certifications in Kubernetes, Terraform, or any public cloud platform like AWS, Azure, or GCP
+* 10+ years of experience in a DevOps role or similar
+* CI/CD Pipelines: Hands-on experience with CI/CD tools (Jenkins, GitLab CI, GitHub Actions, etc.)
+* Experience with distributed systems and microservices architecture
+* Version Control: Experience with Git and branching strategies
+* DevOps Tools: Solid experience with tools like Terraform, Kubernetes, Docker, Packer, and Consul
+* System Implementation & Integration: Proven experience in system implementation and integration projects
+* Monitoring & Logging: Knowledge of monitoring tools (e.g., Prometheus, Grafana, Datadog) and logging tools (e.g., ELK Stack)
+* Cloud Platforms: Familiarity with AWS, Azure, or GCP services. Proven experience implementing Public Cloud Services using Terraform within Terraform Enterprise or HCP Terraform
+* Programming Languages: Proficiency in Python and experience with other scripting languages (e.g., Bash)
+* Infrastructure as Code: Proficiency in tools like Terraform and Ansible. Proven experience in authoring Terraform and shared Terraform Modules
+* Consulting Skills: Proven ability to consult with clients and stakeholders to understand their needs and provide expert advice
+
+**Soft Skills:**
+
+* Solid analytical and problem-solving skills
+* Proven excellent communication and collaboration abilities
+* Ability to work in an agile and fast-paced environment
+
+*At UnitedHealth Group, our mission is to help people live healthier lives and make the health system work better for everyone. We believe everyone-of every race, gender, sexuality, age, location and income-deserves the opportunity to live their healthiest life. Today, however, there are still far too many barriers to good health which are disproportionately experienced by people of color, historically marginalized groups and those with lower incomes. We are committed to mitigating our impact on the environment and enabling and delivering equitable care that addresses health disparities and improves health outcomes - an enterprise priority reflected in our mission.*","https://in.indeed.com/cmp/Optum",,,,,,"2026-06-11 06:42:47","https://uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2370087&lang=en",,,,,,,,,"https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/fda00a1dbb2aaebea6d386695d0294c2","https://www.optum.com","Eden Prairie, MN","10,000+","more than $10B (USD)",
+"li-4427180313","linkedin","Onsite/Hybrid",,,"https://www.linkedin.com/jobs/view/4427180313","Site Reliability Engineer","Snapmint","Gurugram, Haryana, India","2026-06-11",,False,,,"https://in.linkedin.com/company/snapmintfinserv",,,,,,"2026-06-11 06:42:47",,,,,,,,,,,,,,,
+"li-4427148450","linkedin","Onsite/Hybrid",,,"https://www.linkedin.com/jobs/view/4427148450","DevOps Engineer, India","AlgoSec","New Delhi, Delhi, India","2026-06-11",,False,,,"https://www.linkedin.com/company/algosec",,,,,,"2026-06-11 06:42:47",,,,,,,,,,,,,,,
+"li-4426223542","linkedin","Onsite/Hybrid",,,"https://www.linkedin.com/jobs/view/4426223542","DevOps Engineer","Careers360","Gurugram, Haryana, India","2026-06-11",,False,,,"https://in.linkedin.com/company/careers360",,,,,,"2026-06-11 06:42:47",,,,,,,,,,,,,,,
+"li-4425080281","linkedin","Onsite/Hybrid",,,"https://www.linkedin.com/jobs/view/4425080281","Senior Site Reliability Engineer (Noida, BLR, India)","Level AI","Noida, Uttar Pradesh, India","2026-06-11",,False,,,"https://www.linkedin.com/company/level-ai",,,,,,"2026-06-11 06:42:47",,,,,,,,,,,,,,,
+"li-4423195928","linkedin","Onsite/Hybrid",,,"https://www.linkedin.com/jobs/view/4423195928","AWS Cloud DevOps Engineer","Creyente Infotech","Hyderabad, Telangana, India","2026-06-11",,False,,,"https://in.linkedin.com/company/creyente-infotech",,,,,,"2026-06-11 06:42:47",,,,,,,,,,,,,,,
+"li-4426224218","linkedin","Onsite/Hybrid",,,"https://www.linkedin.com/jobs/view/4426224218","Site Reliability Engineer / DevOps Engineer","LSEG","Hyderabad, Telangana, India","2026-06-11",,False,,,"https://uk.linkedin.com/company/london-stock-exchange-group",,,,,,"2026-06-11 06:42:47",,,,,,,,,,,,,,,
+"li-4426204189","linkedin","Onsite/Hybrid",,,"https://www.linkedin.com/jobs/view/4426204189","Senior DevOps Engineer","Busybrains","Hyderabad, Telangana, India","2026-06-11",,False,,,"https://in.linkedin.com/company/busybrains.ai",,,,,,"2026-06-11 06:42:47",,,,,,,,,,,,,,,
+"li-4427169547","linkedin","Onsite/Hybrid",,,"https://www.linkedin.com/jobs/view/4427169547","DevOps Engineer","Tata Consultancy Services","Hyderabad, Telangana, India","2026-06-11",,False,,,"https://in.linkedin.com/company/tata-consultancy-services",,,,,,"2026-06-11 06:42:47",,,,,,,,,,,,,,,
+"li-4426216633","linkedin","Onsite/Hybrid",,,"https://www.linkedin.com/jobs/view/4426216633","Tech Lead SRE (OpenShift SME / Platform Engineer)","Smartping","Hyderabad, Telangana, India","2026-06-11",,False,,,"https://in.linkedin.com/company/smartpingai",,,,,,"2026-06-11 06:42:47",,,,,,,,,,,,,,,
+"li-4423616131","linkedin","Onsite/Hybrid",,,"https://www.linkedin.com/jobs/view/4423616131","Senior Cloud Operations Engineer","Oracle","Hyderabad, Telangana, India","2026-06-11",,False,,,"https://www.linkedin.com/company/oracle",,,,,,"2026-06-11 06:42:47",,,,,,,,,,,,,,,
+"li-4426206712","linkedin","Onsite/Hybrid",,,"https://www.linkedin.com/jobs/view/4426206712","TechOps-DE-CloudOps-Support Center Practitioner-Staff","EY","Hyderabad, Telangana, India","2026-06-11",,False,,,"https://uk.linkedin.com/company/ernstandyoung",,,,,,"2026-06-11 06:42:47",,,,,,,,,,,,,,,
+"li-4426214666","linkedin","Onsite/Hybrid",,,"https://www.linkedin.com/jobs/view/4426214666","Heroku Consultant / Heroku Platform Engineer","Zodeck Technologies","Hyderabad, Telangana, India","2026-06-11",,False,,,"https://in.linkedin.com/company/zodeck",,,,,,"2026-06-11 06:42:47",,,,,,,,,,,,,,,
+"li-4427147981","linkedin","Onsite/Hybrid",,,"https://www.linkedin.com/jobs/view/4427147981","Commercial Technology Operations Admin - Enterprise Technology (Development + DevOps) || Hyderabad","Three Across","Hyderabad, Telangana, India","2026-06-11",,False,,,"https://www.linkedin.com/company/threeacross",,,,,,"2026-06-11 06:42:47",,,,,,,,,,,,,,,
+"li-4426206682","linkedin","Onsite/Hybrid",,,"https://www.linkedin.com/jobs/view/4426206682","AWS Devops Engineer I","CodeChavo","Bengaluru, Karnataka, India","2026-06-11",,False,,,"https://www.linkedin.com/company/codechavo-global",,,,,,"2026-06-11 06:42:47",,,,,,,,,,,,,,,
+"li-4426216210","linkedin","Onsite/Hybrid",,,"https://www.linkedin.com/jobs/view/4426216210","Site Reliability Engineer / DevOps Engineer","LSEG","Bengaluru, Karnataka, India","2026-06-11",,False,,,"https://uk.linkedin.com/company/london-stock-exchange-group",,,,,,"2026-06-11 06:42:47",,,,,,,,,,,,,,,
+"li-4426184410","linkedin","Onsite/Hybrid",,,"https://www.linkedin.com/jobs/view/4426184410","JR-184310 SF DevOps Engineer Middle","Customertimes","Bengaluru, Karnataka, India","2026-06-11",,False,,,"https://www.linkedin.com/company/customertimes",,,,,,"2026-06-11 06:42:47",,,,,,,,,,,,,,,
+"li-4427157384","linkedin","Onsite/Hybrid",,,"https://www.linkedin.com/jobs/view/4427157384","Software Engineer II - Site Reliability Engineer","JPMorganChase","Bengaluru, Karnataka, India","2026-06-11",,False,,,"https://www.linkedin.com/company/jpmorganchase",,,,,,"2026-06-11 06:42:47",,,,,,,,,,,,,,,
+"li-4426188788","linkedin","Onsite/Hybrid",,,"https://www.linkedin.com/jobs/view/4426188788","DevOps Engineer (On-Premise & Hybrid Cloud)","Prophecy Technologies","Bengaluru, Karnataka, India","2026-06-11",,False,,,"https://www.linkedin.com/company/prophecytechs",,,,,,"2026-06-11 06:42:47",,,,,,,,,,,,,,,
+"li-4425075395","linkedin","Onsite/Hybrid",,,"https://www.linkedin.com/jobs/view/4425075395","Senior Site Reliability Engineer (Noida, BLR, India)","Level AI","Bengaluru, Karnataka, India","2026-06-11",,False,,,"https://www.linkedin.com/company/level-ai",,,,,,"2026-06-11 06:42:47",,,,,,,,,,,,,,,
+"li-4426201617","linkedin","Onsite/Hybrid",,,"https://www.linkedin.com/jobs/view/4426201617","Software Engineer - SRE (Python)","JFrog","Bengaluru, Karnataka, India","2026-06-11",,False,,,"https://www.linkedin.com/company/jfrog-ltd",,,,,,"2026-06-11 06:42:47",,,,,,,,,,,,,,,
+"li-4423609930","linkedin","Onsite/Hybrid",,,"https://www.linkedin.com/jobs/view/4423609930","DevOps Senior Engineer","Tata Consultancy Services","Bengaluru, Karnataka, India","2026-06-11",,False,,,"https://in.linkedin.com/company/tata-consultancy-services",,,,,,"2026-06-11 06:42:47",,,,,,,,,,,,,,,
+"li-4425569840","linkedin","Onsite/Hybrid",,,"https://www.linkedin.com/jobs/view/4425569840","Senior Linux Engineer","GlobalGuard","Bengaluru, Karnataka, India","2026-06-11",,False,,,"https://www.linkedin.com/company/globalguardinc",,,,,,"2026-06-11 06:42:47",,,,,,,,,,,,,,,
+"li-4423617193","linkedin","Onsite/Hybrid",,,"https://www.linkedin.com/jobs/view/4423617193","Cloud Architect","Mareana","Bengaluru, Karnataka, India","2026-06-11",,False,,,"https://www.linkedin.com/company/mareana",,,,,,"2026-06-11 06:42:47",,,,,,,,,,,,,,,
+"li-4423604884","linkedin","Onsite/Hybrid",,,"https://www.linkedin.com/jobs/view/4423604884","Senior DevOps Engineer","NVIDIA AI",,"2026-06-11",,False,,,"https://www.linkedin.com/showcase/nvidia-ai/",,,,,,"2026-06-11 06:42:47",,,,,,,,,,,,,,,
+"li-4423613251","linkedin","Onsite/Hybrid",,,"https://www.linkedin.com/jobs/view/4423613251","Sr Developer - Enterprise Integration","Johnson Controls",,"2026-06-11",,False,,,"https://ie.linkedin.com/company/johnson-controls",,,,,,"2026-06-11 06:42:47",,,,,,,,,,,,,,,
+"li-4423199674","linkedin","Onsite/Hybrid",,,"https://www.linkedin.com/jobs/view/4423199674","Sr Developer - Enterprise integration","Johnson Controls",,"2026-06-11",,False,,,"https://ie.linkedin.com/company/johnson-controls",,,,,,"2026-06-11 06:42:47",,,,,,,,,,,,,,,
+"li-4423194756","linkedin","Onsite/Hybrid",,,"https://www.linkedin.com/jobs/view/4423194756","Sr Developer - Enterprise integration","Johnson Controls",,"2026-06-11",,False,,,"https://ie.linkedin.com/company/johnson-controls",,,,,,"2026-06-11 06:42:47",,,,,,,,,,,,,,,
+"li-4423192841","linkedin","Onsite/Hybrid",,,"https://www.linkedin.com/jobs/view/4423192841","Sr Developer - Enterprise Integration","Johnson Controls",,"2026-06-11",,False,,,"https://ie.linkedin.com/company/johnson-controls",,,,,,"2026-06-11 06:42:47",,,,,,,,,,,,,,,
+"li-4423194755","linkedin","Onsite/Hybrid",,,"https://www.linkedin.com/jobs/view/4423194755","Sr Developer - Enterprise integration","Johnson Controls",,"2026-06-11",,False,,,"https://ie.linkedin.com/company/johnson-controls",,,,,,"2026-06-11 06:42:47",,,,,,,,,,,,,,,
+"in-585dcee7869df43f","indeed","Onsite/Hybrid",,,"https://in.indeed.com/viewjob?jk=585dcee7869df43f","Senior Member Technical Staff","The Nielsen Company","MH, IN","2026-06-11","fulltime",False,,"**Company Description**
+
+At Nielsen, we are passionate about our work to power a better media future for all people by providing powerful insights that drive client decisions and deliver extraordinary results. Our talented, global workforce is dedicated to capturing audience engagement with content - wherever and whenever it’s consumed. Together, we are proudly rooted in our deep legacy as we stand at the forefront of the media revolution. When you join Nielsen, you will join a dynamic team committed to excellence, perseverance, and the ambition to make an impact together. We champion you, because when you succeed, we do too. We enable your best to power our future.
+
+ **Job Description**
+
+**About Gracenote :**  
+Gracenote is the top provider of entertainment information, creating industry-leading  
+databases of TV, movie, and music metadata for entertainment guides, applications  
+and in-car entertainment. Our technology serves billions of requests daily to  
+hundreds of millions of devices around the world. Our customers include innovators  
+like Apple, Twitter, Google, Spotify, M-GO and Hulu, top consumer electronics and  
+cable companies, and leading automotive manufacturers such as Ford and Toyota,  
+throughout the US and the world. Simply put, data provides you with an opportunity  
+to impact the evolution of the entire entertainment industry.  
+Purpose:  
+As a senior devops engineer, your role is to bridge the gap between software  
+development and IT operations, ensuring efficient and reliable software delivery. You  
+design and implement automation tools, processes and frameworks to streamline  
+workflows, enhance system reliability, and facilitate continuous integration and  
+deployment.  
+**Overall Responsibilities**  
+
+* Deploy, automate, maintain, and troubleshoot DevOps managed shared
+
+services  
+
+* Design, Implement and maintain scalable, reliable infrastructure to support
+
+SDLC  
+
+* Develop and manage robust CI/CD pipelines to streamline software
+
+releases and updates  
+
+* Proficient automating system configurations, deployments and monitoring
+
+to enhance efficiency and reduce manual intervention.  
+
+* Ensure the availability, performance, scalability and security of production
+
+systems  
+
+* Mentor and guide junior devops engineers fostering a culture of
+
+continuous improvement and learning  
+
+* Research and implement new DevOps technologies
+
+* Work closely with the Global DevOps and dedicated DevOps teams
+* Suggest and implement best practices and architecture improvements
+
+**Must haves:**  
+
+* Proven ability to troubleshoot complex systems issues and implement effective
+
+solutions.  
+
+* Demonstrable DevOps experience
+* Experience with programming or scripting language such as Python, Bash, Java
+* Experience working in a Linux and in a cloud environment
+* Minimum 4+ years with Apache Cassandra 4.1 Administration/Architecture
+* Experience with Infrastructure as code, containerization such as K8s/Docker,
+
+logging, monitoring and alerting, and CI/CD tools  
+
+* Proficient in implementing Infrastructure as a code using tools like terraform and
+
+cloud formation  
+
+* Willingness to learn above mentioned qualifications if some are missing
+* Minimum 4+ years provisioning, operating, and managing AWS environments
+* Proficient with AWS services
+* Familiarity interacting with AWS APIs
+* AWS Disaster Recovery design and deployment across regions a plus
+
+Desired Skills / Good to have:  
+
+* Experience with multi-tier architectures: load balancers, caching, web servers,
+
+application servers, databases, and networking  
+
+* Experience in automation and testing via scripting & programming (PowerShell,
+
+Jenkins, Python, Ruby, Java)  
+
+* Experience with working with geographically dispersed teams
+* Experience with secrets management tools like Hashicorp Vault
+* Professional certifications such as AWS certified Devops Engineer, Kubernetes
+
+administrator etc  
+
+* Demonstrated experience leading devops teams or projects, fostering
+
+collaboration.  
+
+* A personal technical blog
+* A personal (Git) repository of side projects
+* Participation in an open-source community
+
+ **Qualifications**
+
+B.E / B.Tech / BCA/ MCA in Computer Science, Engineering or a related  
+subject.  
+
+* Strong Computer Science fundamentals.
+* Comfortable with version control systems such as git.
+* A thirst for learning new Tech and keeping up with industry advances.
+* Excellent communication and knowledge-sharing skills.
+* Comfortable working with technical and non-technical teams.
+* Strong debugging skills.
+* Comfortable providing and receiving code review feedback.
+* Smart+Exceptional written and verbal communication skills
+* A positive attitude, adaptability, enthusiasm, and a growth mindset.
+
+ **Additional Information**
+
+Please be aware that job-seekers may be at risk of targeting by scammers seeking personal data or money. Nielsen recruiters will only contact you through official job boards, LinkedIn, or email with a nielsen.com domain. Be cautious of any outreach claiming to be from Nielsen via other messaging platforms or personal email addresses. Always verify that email communications come from an @nielsen.com address. If you're unsure about the authenticity of a job offer or communication, please contact Nielsen directly through our official website or verified social media channels.","https://in.indeed.com/cmp/The-Nielsen-Company-1",,,,,,"2026-06-11 06:42:47","https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013573395-senior-member-technical-staff",,,,,,,,,,,,,,
+"li-4427174517","linkedin","Onsite/Hybrid",,,"https://www.linkedin.com/jobs/view/4427174517","IN-Senior Associate_ DevOps Engineer _AppTech_Advisory_Mumbai (0-30 days NP joiners)","PwC India","Mumbai, Maharashtra, India","2026-06-11",,False,,,"https://in.linkedin.com/company/pwc-india",,,,,,"2026-06-11 06:42:47",,,,,,,,,,,,,,,
+"li-4427179411","linkedin","Onsite/Hybrid",,,"https://www.linkedin.com/jobs/view/4427179411","IN-Senior Associate_ DevOps Engineer __AppTech_Advisory_Mumbai (0-30 days NP joiners)","PwC India","Mumbai, Maharashtra, India","2026-06-11",,False,,,"https://in.linkedin.com/company/pwc-india",,,,,,"2026-06-11 06:42:47",,,,,,,,,,,,,,,
+"li-4427172488","linkedin","Onsite/Hybrid",,,"https://www.linkedin.com/jobs/view/4427172488","IN-Senior Associate_ DevOps Engineer __AppTech_Advisory_Mumbai (0-30 days NP joiners)","PwC India","Mumbai, Maharashtra, India","2026-06-11",,False,,,"https://in.linkedin.com/company/pwc-india",,,,,,"2026-06-11 06:42:47",,,,,,,,,,,,,,,
