@@ -29,8 +29,8 @@ for city in locations:
             search_term=combined_search,                        
             google_search_term=combined_google_search,          
             location=city,
-            results_wanted=5,                     
-            hours_old=4,                          
+            results_wanted=20,                     
+            hours_old=1,                          
             country_indeed='India',
             enforce_annual_salary=True,
             verbose=1                             
@@ -47,8 +47,8 @@ for city in locations:
             site_name=["linkedin"],
             search_term=combined_search,                                  
             location=city,
-            results_wanted=10,                    
-            hours_old=4,                          
+            results_wanted=20,                    
+            hours_old=1,                          
             proxies=my_rotating_proxy,            
             linkedin_fetch_description=False,     
             verbose=1                             
@@ -68,8 +68,8 @@ try:
         google_search_term='("devops engineer" OR "site reliability engineer") remote jobs past 4 hours',
         location="India",                         
         is_remote=True,                           
-        results_wanted=10,                        
-        hours_old=4,
+        results_wanted=20,                        
+        hours_old=1,
         country_indeed='India',
         enforce_annual_salary=True,
         verbose=1
@@ -88,7 +88,7 @@ try:
         location="India",                         
         is_remote=True,                           
         results_wanted=20,                        
-        hours_old=4,
+        hours_old=1,
         proxies=my_rotating_proxy,
         linkedin_fetch_description=False,
         verbose=1
