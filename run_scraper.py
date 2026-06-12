@@ -6,16 +6,18 @@ from jobspy import scrape_jobs
 
 print("Running production-ready automated 4-hour split-network scrape with new custom column ordering...")
 
+current_timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+
 # 1. Configuration
 combined_search = '"devops engineer" OR "site reliability engineer"'
 locations = ["Gurgaon", "Noida", "Delhi", "Jaipur", "Hyderabad", "Bengaluru", "Pune", "Mumbai"]
-output_file = "jobs.csv"
+output_file = f"jobs/jobs:{current_timestamp}.csv"
 
 # Webshare rotating proxy (Used ONLY for LinkedIn)
 my_rotating_proxy = ["http://muujtxkt-rotate:qwq0ievoiu53@p.webshare.io:80"]
 
 current_run_list = []
-current_timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+
 
 # 2. Loop Physical Cities
 for city in locations:
