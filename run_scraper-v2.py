@@ -259,4 +259,5 @@ if __name__ == "__main__":
         run_scrape_cycle()
         print("\n=================== CYCLE COMPLETE ===================")
         print("🕒 Sleeping for exactly 2 hours before the next sync loop...")
-        time.sleep(7200) # 7200 seconds = 2 Hours
+        # time.sleep(7200) # 7200 seconds = 2 Hours
+        time.sleep(1800) # 1800 seconds = 30 mins
