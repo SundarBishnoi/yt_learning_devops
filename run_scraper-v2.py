@@ -64,7 +64,7 @@ def send_email_alert(new_jobs_df):
     html_content = f"""
     <html>
         <body style="font-family: Arial, sans-serif; color: #333;">
-            <h2 style="color: #2c3e50;">🎯 New Positions Found in the Last 2 Hours</h2>
+            <h2 style="color: #2c3e50;">🎯 New Positions Found in the Last 30 mins</h2>
             <p>The automated real-time crawler found fresh listings matching your profile:</p>
             <table style="width: 100%; border-collapse: collapse; margin-top: 15px;">
                 <thead>
@@ -258,6 +258,6 @@ if __name__ == "__main__":
         print(f"\n=================== STARTING RUN: {datetime.now()} ===================")
         run_scrape_cycle()
         print("\n=================== CYCLE COMPLETE ===================")
-        print("🕒 Sleeping for exactly 2 hours before the next sync loop...")
-        # time.sleep(7200) # 7200 seconds = 2 Hours
+        print("🕒 Sleeping for exactly 30 mins before the next sync loop...")
+        # time.sleep(7200) # 7200 seconds = 2 hours
         time.sleep(1800) # 1800 seconds = 30 mins
