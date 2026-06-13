@@ -1,0 +1,86 @@
+"id","site","is_remote_flag","work_from_home_type","emails","job_url","title","company","location","date_posted","job_type","is_remote","job_level","company_url","skills","experience_range","company_rating","company_reviews_count","vacancy_count","scrape_timestamp","job_url_direct","description","salary_source","interval","min_amount","max_amount","currency","job_function","listing_type","company_industry","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description"
+"li-4428303557","linkedin","Onsite/Hybrid","","","https://www.linkedin.com/jobs/view/4428303557","DevOps Engineer, India","AlgoSec","New Delhi, Delhi, India","2026-06-13","",False,"","https://www.linkedin.com/company/algosec","","","","","","2026-06-13 03:55:44","","","","","","","","","","","","","","","",""
+"in-0940591001b64b25","indeed","Onsite/Hybrid","","","https://in.indeed.com/viewjob?jk=0940591001b64b25","Senior CloudOps Engineer","Hewlett Packard Enterprise | HPE","KA, IN","2026-06-13","fulltime",False,"","https://in.indeed.com/cmp/Hewlett-Packard-Enterprise-Hpe-3","","","","","","2026-06-13 03:55:44","https://careers.hpe.com/us/en/job/HPE1US1207616EXTERNALENUS/Senior-CloudOps-Engineer?utm_source=indeed&utm_medium=phenom-feeds","Senior CloudOps EngineerThis role has been designed as ‘Hybrid’ with an expectation that you will work on average 2 days per week from an HPE office.
+
+**Who We Are:**
+
+Hewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE.
+
+**Job Description:**
+
+**Aruba** is an HPE Company, and a leading provider of next-generation network access solutions for the mobile enterprise. Helping some of the largest companies in the world modernize their networks to meet the demands of a digital future, Aruba is redefining the “Intelligent Edge” – and creating new customer experiences across intelligent spaces and digital workspaces. Join us redefine what’s next for you.
+
+**What you'll do:**
+
+We are looking for a Senior Cloud DevOps Engineer to design, build, and optimize secure, scalable, and efficient cloud infrastructure for a live cybersecurity SaaS product. You will take ownership of infrastructure designs, production reliability, and cloud cost optimization, while working closely with other senior technical teams.
+
+**Key Responsibilities**
+========================
+
+* Design, implement, and optimize cloud infrastructure with a strong focus on scalability, security, and cost-efficiency.
+* Build and maintain secure cloud networking infrastructure — including VPCs, subnets, routing, VPNs, firewalls, and load balancers.
+* Develop Infrastructure as Code solutions using Terraform, Kubernetes, and Helm.
+* Enhance CI/CD pipelines and deployment workflows (Argo CD) to support frequent production releases.
+* Implement monitoring, alerting, and observability systems using Prometheus, Grafana, and logging tools.
+* Troubleshoot and resolve complex production issues, ensuring high availability and customer satisfaction.
+* Collaborate closely with development, security, and operations teams to integrate infrastructure with application needs.
+* Contribute to cloud cost optimization initiatives by improving efficiency and resource usage.
+* Maintain cloud security best practices and compliance with standards (e.g., SOC2, ISO27001).
+
+**What you need to bring:**
+===========================
+
+* 7 - 10 years of experience in Cloud Infrastructure, DevOps, or SRE roles.
+* Strong hands-on experience with AWS, Azure, and/or GCP, especially in networking (VPC setup, VPNs, routing, firewall configurations).
+* Expertise in Terraform, Kubernetes, Helm, and scripting languages (Python or Bash).
+* Proven experience supporting live, production SaaS environments.
+* Solid understanding of cloud security concepts and practices.
+* Strong troubleshooting skills in distributed, cloud-based environments.
+* Excellent communication and collaboration skills.
+
+**Additional Skills:**
+
+Cloud Architectures, Cross Domain Knowledge, Design Thinking, Development Fundamentals, DevOps, Distributed Computing, Microservices Fluency, Full Stack Development, Release Management, Security-First Mindset, User Experience (UX)
+
+**What We Can Offer You:**
+
+**Health & Wellbeing**
+
+We strive to provide our team members and their loved ones with a comprehensive suite of benefits that supports their physical, financial and emotional wellbeing.
+
+**Personal & Professional Development**
+
+We also invest in your career because the better you are, the better we all are. We have specific programs catered to helping you reach any career goals you have — whether you want to become a knowledge expert in your field or apply your skills to another division.
+
+**Unconditional Inclusion**
+
+We are unconditionally inclusive in the way we work and celebrate individual uniqueness. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good.
+
+**Let's Stay Connected:**
+
+Follow @HPECareers on Instagram to see the latest on people, culture and tech at HPE.
+
+#india
+#aruba
+
+**Job:**
+
+Engineering
+
+**Job Level:**
+
+TCP\\_04
+
+HPE is an Equal Employment Opportunity/ Veterans/Disabled/LGBT employer. We do not discriminate on the basis of race, gender, or any other protected category, and all decisions we make are made on the basis of qualifications, merit, and business need. Our goal is to be one global team that is representative of our customers, in an inclusive environment where we can continue to innovate and grow together. Please click here: Equal Employment Opportunity.
+
+**Hewlett Packard Enterprise is EEO Protected Veteran/ Individual with Disabilities.**
+
+HPE will comply with all applicable laws related to employer use of arrest and conviction records, including laws requiring employers to consider for employment qualified applicants with criminal histories.
+
+**Recruitment Fraud Alert**
+
+We have become aware of an increase in fraudulent recruitment activities in which individuals impersonate our company or authorized recruitment agencies to offer fake employment opportunities. These scams may occur through false websites, emails, social media, or chat-based applications and often aim to obtain personal information or money. Please note that Hewlett Packard Enterprise (HPE), its direct and indirect subsidiaries and affiliated companies, and its authorized recruitment agencies/vendors will never charge a candidate a registration fee, hiring fee, or any other fee in connection with its recruitment and hiring process. We also never request personal information such as back account details, Social Security numbers, or national IDs via social media or chat applications.
+
+All legitimate job opportunities will come through official company channels, and candidates are responsible for verifying the credentials of any third party claiming to represent the company. Any reliance on fraudulent communication is at the individual’s own risk, and HPE disclaims legal liability for any resulting damages. If you suspect recruitment fraud, do not share personal information or make any payments and report the incident to your local authorities immediately.","","","","","","","","","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/dbfacf52914ebecb5f58e160eb0e11d1","http://careers.HPE.com","Houston, TX","10,000+","more than $10B (USD)","Hewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. "
+"li-4425340545","linkedin","Onsite/Hybrid","","","https://www.linkedin.com/jobs/view/4425340545","DevOps Engineer","Terralogic","Bengaluru, Karnataka, India","2026-06-13","",False,"","https://www.linkedin.com/company/terralogic","","","","","","2026-06-13 03:55:44","","","","","","","","","","","","","","","",""
+"li-4389497284","linkedin","Onsite/Hybrid","","","https://www.linkedin.com/jobs/view/4389497284","Vice President of Infrastructure","Toku","","2026-06-13","",False,"","https://sg.linkedin.com/company/toku-global","","","","","","2026-06-13 03:55:44","","","","","","","","","","","","","","","",""
