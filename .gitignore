@@ -3,3 +3,4 @@
 __pycache__/
 scraper.log
 jobspy_repo/
+jobs/master_jobs.csv
