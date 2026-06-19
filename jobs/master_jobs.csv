@@ -463,7 +463,7 @@ The ideal candidate combines deep technical expertise with strong organizational
   
 
 #LI-Hybrid  
-#P25309\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\_3469886
+#P25309\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\_3469886
 
 **The Okta Experience**
 
@@ -2728,7 +2728,7 @@ You report into Sales Engineering, and your quality findings carry weight throug
 
 * *As part of our standard hiring process, we would like to inform you that a background check may be conducted at the final stage of recruitment through our third-party provider, Checkr.*
 
-*\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*Please note that Cast AI* *does not* *provide any form of visa sponsorship/work permit.*
+*\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*Please note that Cast AI* *does not* *provide any form of visa sponsorship/work permit.*
 
 #LI-Remote","","","","","","","","","","","","","",""
 "in-86d13ca1be84b3ec","indeed","Onsite/Hybrid","","","https://in.indeed.com/viewjob?jk=86d13ca1be84b3ec","DevOps Engineer - IND","Fortanix","KA, IN","2026-06-19","fulltime",False,"","https://in.indeed.com/cmp/Fortanix","","","","","","2026-06-19 08:35:01","https://apply.workable.com/j/29C1AFAA3C","**About Fortanix:**
@@ -5076,3 +5076,331 @@ IBS Software is an equal employment opportunity employer. All qualified applican
 
 * 1.4 lacs p.a
 * Food and accommation will be provided for outstation candidates","","","","","","","","","","","","","",""
+"li-4430938703","linkedin","Onsite/Hybrid","","","https://www.linkedin.com/jobs/view/4430938703","AWS Cloud Engineer (Freelancer)","Deccan AI Experts","Noida, Uttar Pradesh, India","2026-06-19","",False,"","https://www.linkedin.com/company/deccan-ai-experts","","","","","","2026-06-19 11:18:05","","","","","","","","","","","","","","","",""
+"in-6c571d79d9fcbf05","indeed","Onsite/Hybrid","","","https://in.indeed.com/viewjob?jk=6c571d79d9fcbf05","Sr. Application Security","Cohere Health","TS, IN","2026-06-19","",False,"","https://in.indeed.com/cmp/Cohere-Health-2","","","","","","2026-06-19 11:18:05","https://grnh.se/g781jell3us","**Opportunity Overview:**
+
+We are seeking a hands-on Application Security Engineer to help embed security into the core architecture of our cloud-native healthcare platform. This role focuses on implementing secure application frameworks, identity systems, and developer security capabilities across modern distributed systems.
+
+As an Application Security Engineer, you will work closely with engineering and platform teams to implement secure patterns for authentication, authorization, API security, and service-to-service communication. You will support architecture reviews, threat modeling, and secure design discussions, and implement practical security controls directly in their applications and services.
+
+This role is deeply integrated into the engineering and platform ecosystem, working on secure API architectures, identity integrations, CI/CD security, and reusable security frameworks that enable teams to build secure services by default.
+
+The ideal candidate combines strong software engineering and cloud architecture experience with deep expertise in modern identity platforms such as Okta, and a passion for helping engineering teams deliver secure systems at scale.
+
+Experience in healthcare or other regulated environments is strongly preferred.
+
+**What you'll do:**
+
+* Contribute to designing secure architecture patterns for cloud-native applications, APIs, and microservices
+* Implement secure patterns for authentication, authorization, and identity propagation across distributed systems
+* Design secure approaches for service-to-service communication and API protection
+* Support architecture and threat modeling reviews for new services and platform capabilities
+* Design and implement secure identity and authentication flows using Okta and AWS Cognito
+* Implement OAuth2, OpenID Connect, and token-based authentication patterns
+* Apply secure approaches for API gateway authorization and token validation
+* Integrate security controls into CI/CD pipelines and DevSecOps workflows
+* Work closely with engineering teams on secure service and API design
+* Contribute to building reusable security frameworks and developer tooling that enable teams to build secure services by default
+
+**Required Qualifications:**
+
+* 6 or more years of experience in application security, secure software engineering, or cloud security architecture
+* Strong background in designing and securing cloud-native applications, APIs, and microservices architectures
+* Deep expertise with modern authentication and identity protocols, including OAuth2, OpenID Connect, and JWT
+* Hands-on experience designing and implementing identity architectures using Okta, including SSO, federation, and MFA
+* Experience integrating Okta with cloud-native applications and APIs, including token validation and identity propagation
+* Experience working with AWS Cognito or similar cloud identity platforms
+* Strong understanding of secure API design, including gateway authorization and service-to-service authentication
+* Experience embedding security into CI/CD pipelines and DevSecOps workflows
+* Ability to review application code and guide secure coding practices across engineering teams
+* Experience contributing to security frameworks or reusable libraries that enable engineers to build secure services by default.
+
+**Ability to commute/relocate:**
+
+* Hyderabad, Telangana: Reliably commute or planning to relocate before starting work (Preferred)
+
+**Interview Process\\*:**
+
+* Connect with Talent Acquisition
+
+* Meet with the Hiring Manager
+
+* Behavioral Interview(s)
+
+* Case Study
+
+* Interview with Senior Leadership
+
+* Subject to change
+
+**About Cohere Health:**
+
+Cohere Health's clinical intelligence platform delivers AI-powered solutions that streamline access to quality care by improving payer-provider collaboration, cost containment, and healthcare economics. Cohere Health works with over 660,000 providers and handles over 12 million prior authorization requests annually. Its responsible AI auto-approves up to 90% of requests for millions of health plan members.
+
+With the acquisition of ZignaAI, we've further enhanced our platform by launching our Payment Integrity Suite, anchored by Cohere Validate™, an AI-driven clinical and coding validation solution that operates in near real-time. By unifying pre-service authorization data with post-service claims validation, we're creating a transparent healthcare ecosystem that reduces waste, improves payer-provider collaboration and patient outcomes, and ensures providers are paid promptly and accurately.
+
+Cohere Health's innovations continue to receive industry wide recognition. We've been named to the 2025 Inc. 5000 list and in the Gartner® Hype Cycle™ for U.S. Healthcare Payers (2022-2025), and ranked as a Top 5 LinkedIn™ Startup for 2023 & 2024. Backed by leading investors such as Deerfield Management, Define Ventures, Flare Capital Partners, Longitude Capital, and Polaris Partners, Cohere Health drives more transparent, streamlined healthcare processes, helping patients receive faster, more appropriate care and higher-quality outcomes.
+
+The Coherenauts, as we call ourselves, who succeed here are empathetic teammates who are candid, kind, caring, and embody our core values and principles. We believe that diverse, inclusive teams make the most impactful work. Cohere is deeply invested in ensuring that we have a supportive, growth-oriented environment that works for everyone.
+
+**We can't wait to learn more about you and meet you at Cohere Health!**
+
+**Equal Opportunity Statement:**
+
+Cohere Health is an Equal Opportunity Employer. We are committed to fostering an environment of mutual respect where equal employment opportunities are available to all. To us, it's personal.
+
+**ISMS roles and responsibilities:**
+
+* Good knowledge of Information practices.
+* Assist the manager in all the information security activities implementation and maintenance process.
+* Ensuring the team and imparted with Competence related to Information security
+* Responsible for implementation of security policies and procedures and report any issues to the Information Security Manager.","","","","","","","","","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/e0a75590ceddb45b71f5ad14fe86e155","https://www.coherehealth.com/","Boston, MA
+Hyderabad, India","501 to 1,000","","Cohere Health provides clinical intelligence solutions to streamline payer and provider collaboration."
+"li-4430926919","linkedin","Onsite/Hybrid","","","https://www.linkedin.com/jobs/view/4430926919","DevOps Engineer","Samyutha Info Technologies Pvt Ltd","Hyderabad, Telangana, India","2026-06-19","",False,"","https://in.linkedin.com/company/samyuthatech","","","","","","2026-06-19 11:18:05","","","","","","","","","","","","","","","",""
+"li-4430941597","linkedin","Onsite/Hybrid","","","https://www.linkedin.com/jobs/view/4430941597","Container Platform Engineer","Sanofi","Hyderabad, Telangana, India","2026-06-19","",False,"","https://fr.linkedin.com/company/sanofi","","","","","","2026-06-19 11:18:05","","","","","","","","","","","","","","","",""
+"li-4430926870","linkedin","Onsite/Hybrid","","","https://www.linkedin.com/jobs/view/4430926870","Lead Container Platform Engineer","Sanofi","Hyderabad, Telangana, India","2026-06-19","",False,"","https://fr.linkedin.com/company/sanofi","","","","","","2026-06-19 11:18:05","","","","","","","","","","","","","","","",""
+"in-ee42288c31ba6976","indeed","Onsite/Hybrid","","","https://in.indeed.com/viewjob?jk=ee42288c31ba6976","Managed Services CX Engineer L2","NTT DATA","KA, IN","2026-06-19","fulltime",False,"","https://in.indeed.com/cmp/Ntt-Data","","","","","","2026-06-19 11:18:05","https://careers.services.global.ntt/global/en/job/NTT1GLOBALR145989EXTERNALENGLOBAL/Managed-Services-CX-Engineer-L2?utm_source=indeed&utm_medium=phenom-feeds","**Make an impact with NTT DATA**  
+Join a company that is pushing the boundaries of what is possible. We are renowned for our technical excellence and leading innovations, and for making a difference to our clients and society. Our workplace embraces diversity and inclusion – it’s a place where you can grow, belong and thrive.
+
+**Your day at NTT DATA**  
+As a Collaboration Managed Services Engineer (L2) at NTT DATA, your day revolves around ensuring our clients' Collaboration and Communication systems function smoothly. You'll proactively monitor work queues, identify and investigate issues, and resolve technical incidents to maintain client satisfaction. Your role includes providing second-level support for incidents and requests of medium complexity, with a keen eye on preventing breaches of our service level agreements (SLAs).  
+  
+You'll be responsible for capturing all required and relevant information for immediate resolution, communicating with other teams and clients for extended support, and ensuring continuous service by following through on shift handovers. Your ability to plan and execute standard requests and changes with clear identification of risks and mitigation plans will be crucial. You will also support automation initiatives by working with our automation partners to optimize efforts and automate routine tasks.  
+  
+Coaching and mentoring will become part of your daily routine as you help the L1 teams enhance their technical and behavioural skills. Establishing effective monitoring setups for client infrastructure, auditing and analysing incident/request tickets, and producing trend reports for automation opportunities are key Responsibilities. You'll also lead initial client escalations and ensure all changes are recorded and approved to maintain compliance and client satisfaction.  
+  
+Your role doesn't stop at issue resolution; you'll also be identifying opportunities to optimize work processes and reduce incidents. Whether it's updating existing knowledge articles, creating new ones, or finding ways to automate routine tasks, you'll actively contribute to enhancing service delivery. Your ability to adapt to changing circumstances and keep a positive outlook will be key to your success.
+
+**To thrive in this role, you need to have:**
+
+* A moderate knowledge of voice, video, and other collaboration modalities.
+* A moderate level of knowledge of Collaboration Applications such as Microsoft Teams, Cisco Webex. Or a moderate level of knowledge of Contact Centres like dynamics 365, Genesys Pure Cloud, Nice CX 1, Cisco Webex Contact Centre.
+* A moderate level of knowledge of Cloud Voice or other carrier based PSTN/SIP technologies.
+* Experience in managed services and using ticketing tools, preferably ServiceNow.
+* The ability to communicate and work effectively across different cultures and social groups.
+* An ability to take technical command of complex Incidents, effectively communicating to a range or internal and external stakeholders.
+* Competence in planning activities and projects well in advance and adapting to changing circumstances.
+* The ability to maintain a positive outlook and work well under pressure.
+* Willingness to work extra hours when necessary.
+* Active listening skills: confirming understanding, probing for relevant information, and avoiding interruptions.
+* A focus on placing clients at the forefront of all interactions, ensuring a positive client experience.
+* A diploma, degree, or relevant qualification in IT/Computing, or equivalent work experience alongside relevant certifications.
+
+**Workplace type****:**
+
+Hybrid Working
+
+**About NTT DATA**  
+NTT DATA is a $30+ billion business and technology services leader, serving 75% of the Fortune Global 100. We are committed to accelerating client success and positively impacting society through responsible innovation. We are one of the world’s leading AI and digital infrastructure providers, with unmatched capabilities in enterprise-scale AI, cloud, security, connectivity, data centers and application services. Our consulting and industry solutions help organizations and society move confidently and sustainably into the digital future. As a Global Top Employer, we have experts in more than 50 countries. We also offer clients access to a robust ecosystem of innovation centers as well as established and start-up partners. NTT DATA is part of NTT Group, which invests over $3 billion each year in R&D.
+
+**Equal Opportunity Employer**  
+NTT DATA is proud to be an Equal Opportunity Employer with a global culture that embraces diversity. We are committed to providing an environment free of unfair discrimination and harassment. We do not discriminate based on age, race, colour, gender, sexual orientation, religion, nationality, disability, pregnancy, marital status, veteran status, or any other protected category. Join our growing global team and accelerate your career with us. Apply today.
+
+**Third parties fraudulently posing as NTT DATA recruiters**
+
+NTT DATA recruiters will never ask job seekers or candidates for payment or banking information during the recruitment process, for any reason. Please remain vigilant of third parties who may attempt to impersonate NTT DATA recruiters—whether in writing or by phone—in order to deceptively obtain personal data or money from you. All email communications from an NTT DATA recruiter will come from an **@nttdata.com** email address. If you suspect any fraudulent activity, please *contact us*.","","","","","","","","","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/a598a8409d24c2c493ede9bbbe334c46","https://careers.services.global.ntt/global/en","Tokyo","10,000+","more than $10B (USD)","Own your career with NTT DATA
+Join a global business and technology leader where every voice is heard and great work is recognized. You’ll work with clients, partners and colleagues around the world t"
+"li-4360884799","linkedin","Onsite/Hybrid","","","https://www.linkedin.com/jobs/view/4360884799","Lead Cloud Engineer","Kobie","Bengaluru, Karnataka, India","2026-06-19","",False,"","https://www.linkedin.com/company/kobie","","","","","","2026-06-19 11:18:05","","","","","","","","","","","","","","","",""
+"li-4430929638","linkedin","Onsite/Hybrid","","","https://www.linkedin.com/jobs/view/4430929638","Azure DevOps + Github actions -5 to 8 yrs -Kochi/Chennai/Pune/Kolkata/Hyderabad/Banglore","Tata Consultancy Services","Bengaluru, Karnataka, India","2026-06-19","",False,"","https://in.linkedin.com/company/tata-consultancy-services","","","","","","2026-06-19 11:18:05","","","","","","","","","","","","","","","",""
+"li-4430927151","linkedin","Onsite/Hybrid","","","https://www.linkedin.com/jobs/view/4430927151","Data Ops Engineer","2K","Bengaluru, Karnataka, India","2026-06-19","",False,"","https://www.linkedin.com/company/2k-games","","","","","","2026-06-19 11:18:05","","","","","","","","","","","","","","","",""
+"li-4370226988","linkedin","Onsite/Hybrid","","","https://www.linkedin.com/jobs/view/4370226988","Lead Platform Architect GCP","Fractal","Bengaluru, Karnataka, India","2026-06-19","",False,"","https://www.linkedin.com/company/fractal-analytics","","","","","","2026-06-19 11:18:05","","","","","","","","","","","","","","","",""
+"li-4390830867","linkedin","Onsite/Hybrid","","","https://www.linkedin.com/jobs/view/4390830867","Principal IT Systems Engineer - DevOps LDAP Services","NXP Semiconductors","Bengaluru, Karnataka, India","2026-06-19","",False,"","https://nl.linkedin.com/company/nxp-semiconductors","","","","","","2026-06-19 11:18:05","","","","","","","","","","","","","","","",""
+"li-4430928417","linkedin","Onsite/Hybrid","","","https://www.linkedin.com/jobs/view/4430928417","Senior Analyst - Software Developer - Observability","Nasdaq","Bengaluru East, Karnataka, India","2026-06-19","",False,"","https://www.linkedin.com/company/nasdaq","","","","","","2026-06-19 11:18:05","","","","","","","","","","","","","","","",""
+"li-4430931108","linkedin","Onsite/Hybrid","","","https://www.linkedin.com/jobs/view/4430931108","MLOps Engineer","2K","Bengaluru, Karnataka, India","2026-06-19","",False,"","https://www.linkedin.com/company/2k-games","","","","","","2026-06-19 11:18:05","","","","","","","","","","","","","","","",""
+"li-4428249072","linkedin","Onsite/Hybrid","","","https://www.linkedin.com/jobs/view/4428249072","Sr. Web Developer (Full Stack)","Mastercard","","2026-06-19","",False,"","https://www.linkedin.com/company/mastercard","","","","","","2026-06-19 11:18:05","","","","","","","","","","","","","","","",""
+"in-af8e5c671ed07c16","indeed","Onsite/Hybrid","","","https://in.indeed.com/viewjob?jk=af8e5c671ed07c16","Human Resources Manager","PROPACK TECHNOLOGIES","MH, IN","2026-06-19","fulltime",False,"","https://in.indeed.com/cmp/Propack-Technologies","","","","","","2026-06-19 11:18:05","http://in.indeed.com/job/human-resources-manager-af8e5c671ed07c16","**About the Role**
+
+The Senior Manager – Human Resources will serve as a strategic partner to business leadership and will be responsible for driving the organization's people agenda across Talent Acquisition, Employee Experience, Performance Management, HR Operations, Compliance, and Organizational Development. The role will focus on building scalable HR practices, strengthening organizational culture, enhancing employee engagement, and supporting business growth through effective people management strategies.
+
+**Key Responsibilities**
+
+**Strategic HR Partnership**
+
+* Collaborate with business leaders to develop and implement people strategies aligned with organizational objectives.
+* Provide guidance on workforce planning, organizational effectiveness, succession planning and talent management.
+* Drive HR initiatives that support business growth, productivity, and employee retention.
+* Act as a trusted advisor to leadership on employee-related matters and organizational
+* challenges.
+
+**Talent Acquisition & Workforce Planning**
+
+* Lead workforce planning and talent acquisition strategies to meet current and future business requirements.
+* Oversee the end-to-end recruitment lifecycle including sourcing, assessment, selection, offer management, and onboarding.
+* Build and maintain a strong talent pipeline through multiple sourcing channels.
+* Enhance employer branding initiatives to attract and retain high-quality talent.
+* Monitor recruitment metrics and implement continuous improvements to hiring effectiveness.
+
+**HR Operations & Employee Lifecycle Management**
+
+* Ensure efficient management of employee lifecycle processes including onboarding, confirmation, promotion, transfer, and separation.
+* Maintain HR records, employee data, and documentation in compliance with organizational standards.
+* Oversee leave management, attendance administration, employee records, and HR reporting.
+* Ensure accuracy and timeliness of employee-related documentation and HR processes.
+* Coordinate employee exits, Full & Final Settlements, gratuity administration, and separation formalities with relevant stakeholders.
+
+**Performance & Talent Management**
+
+* Lead the performance management framework including goal setting, performance reviews and development planning.
+* Partner with functional leaders to establish performance objectives and drive accountability.
+* Identify talent gaps and support capability-building initiatives across the organization.
+* Drive succession planning and talent review processes to build future leadership pipelines.
+* Support learning and development initiatives to enhance organizational capability.
+
+**Employee Experience & Engagement**
+
+* Develop and implement employee engagement strategies to foster a positive and inclusive work environment.
+* Drive employee recognition, wellness, and retention initiatives.
+* Conduct employee feedback mechanisms and recommend actions to improve engagement and workplace effectiveness.
+* Promote a culture of collaboration, accountability, and continuous improvement.
+* Lead employee events, cultural initiatives, and engagement programs that strengthen organizational values.
+
+**HR Compliance & Governance**
+
+* Ensure compliance with applicable labor laws, statutory regulations, and company policies.
+* Oversee HR audits, compliance reviews, and statutory documentation requirements.
+* Manage employee relations matters, disciplinary processes, and grievance resolution.
+* Develop, review, and update HR policies and procedures in line with business and regulatory requirements.
+* Ensure adherence to governance standards and ethical workplace practices.
+
+**Employer Branding & Corporate Initiatives**
+
+* Lead initiatives that enhance the organization's employer brand and employee value proposition.
+* Drive internal communication programs that strengthen employee awareness and engagement.
+* Partner with cross-functional teams to support corporate events, exhibitions, conferences, and employer branding activities.
+* Manage employee communication campaigns and organizational announcements.
+
+**Qualifications**
+
+* Master's Degree in Human Resources, Business Administration, or a related discipline.
+
+**Experience**
+
+* 6–10 years of progressive Human Resources experience with exposure to Talent Acquisition,
+* HR Operations, Employee Relations, Employee Engagement, and Organizational Development.
+* Demonstrated experience collaborating with business leaders and managing HR initiatives across the employee lifecycle.
+* Experience within Machine Manufacturing, Engineering, Pharmaceutical, Biopharmaceutical preferred.
+
+**Core Competencies**
+
+* Strategic Business Partnering
+* Talent Acquisition & Workforce Planning
+* Organizational Development
+* Performance & Talent Management
+* Employee Relations
+* HR Compliance & Governance
+* Employer Branding
+* Stakeholder Management
+* Communication & Influencing Skills
+* Leadership & Team Developmen
+
+Application Question(s):
+
+* Total years of HR experience?
+* Do you have experience handling end-to-end HR operations?
+* Have you worked in a manufacturing company before?
+* Current CTC and Expected CTC?
+* Notice period / Earliest joining date?
+* Have you hired technical positions such as Design Engineers, Sales Engineers, Automation Engineers, Service Engineers, etc.?
+
+Work Location: In person","","","","","","","","","","https://www.propacktechnologies.com","Mumbai","51 to 200","",""
+"li-4429644528","linkedin","Onsite/Hybrid","","","https://www.linkedin.com/jobs/view/4429644528","DevOps Deployment Engineer with experience in Azure & Github Actions","NielsenIQ","","2026-06-19","",False,"","https://www.linkedin.com/company/nielseniq","","","","","","2026-06-19 11:18:05","","","","","","","","","","","","","","","",""
+"li-4409275600","linkedin","Onsite/Hybrid","","","https://www.linkedin.com/jobs/view/4409275600","Server Load Balancer Engineer (L1)","NTT DATA, Inc.","","2026-06-19","",False,"","https://jp.linkedin.com/company/ntt-data-inc","","","","","","2026-06-19 11:18:05","","","","","","","","","","","","","","","",""
+"in-88cc68722cef040c","indeed","Remote","","","https://in.indeed.com/viewjob?jk=88cc68722cef040c","CCTV Technician","Etiicos","TN, IN","2026-06-19","fulltime",False,"","https://in.indeed.com/cmp/Etiicos","","","","","","2026-06-19 11:18:05","http://in.indeed.com/job/cctv-technician-88cc68722cef040c","**Job Overview:**
+
+We are seeking a highly skilled and motivated Electrical Installation & Service Engineer to join our dynamic team at Etiicos, a leading provider of innovative healthcare solutions. The ideal candidate will be responsible for the installation, maintenance, and troubleshooting of the Etiicos Smart Nurse Call System, ensuring seamless functionality and client satisfaction.
+
+**Responsibilities:**
+
+1. Installation and Commissioning:
+
+- Conduct on-site assessments to determine the optimal placement of the Etiicos Smart Nurse Call System components.
+
+- Install, configure, and commission electrical systems, including wiring, panels, and associated hardware.
+
+- Ensure compliance with electrical codes and standards during the installation process.
+
+- Collaborate with project managers and other team members to meet installation deadlines.
+
+**2. Service and Maintenance:**
+
+- Perform regular preventive maintenance checks on the Smart Nurse Call System to identify and address potential issues.
+
+- Respond promptly to service requests, diagnosing problems and implementing solutions.
+
+- Conduct software and firmware updates to ensure system security and performance.
+
+- Maintain accurate records of service activities, including reports on system health and performance.
+
+3. Troubleshooting and Repairs:
+
+- Investigate and resolve electrical and system malfunctions promptly.
+
+- Collaborate with the technical support team to troubleshoot complex issues and provide effective solutions.
+
+- Implement repair or replacement of faulty components to minimize downtime.
+
+4. Customer Training and Support:
+
+- Provide comprehensive training to end-users and healthcare staff on the operation and features of the Smart Nurse Call System.
+
+- Offer technical support and guidance to clients, addressing inquiries and ensuring customer satisfaction.
+
+- Establish strong relationships with clients to understand their specific needs and preferences.
+
+5. Documentation:
+
+- Maintain accurate and up-to-date documentation for all installations, service visits, and repairs.
+
+- Generate detailed reports for clients and internal use, summarizing system performance and recommended improvements.
+
+**Qualifications:**
+
+- Bachelor's degree in Electrical Engineering or a related field.
+
+- Proven experience in electrical installation, commissioning, and maintenance, preferably in healthcare or similar environments.
+
+- Familiarity with nurse call systems, healthcare communication systems, or related technologies.
+
+- Strong knowledge of electrical codes, regulations, and safety standards.
+
+- Excellent troubleshooting and problem-solving skills.
+
+- Effective communication and interpersonal skills for client interactions.
+
+- Ability to work independently and as part of a team.
+
+- Willingness to travel to client sites as needed.
+
+**Preferred Skills:**
+
+- Certification in relevant electrical or technical disciplines.
+
+- Familiarity with Etiicos Smart Nurse Call System or similar healthcare communication solutions.
+
+- Experience with networking and integration of healthcare systems.
+
+Join us at Etiicos and be part of a team committed to transforming healthcare communication. If you are a skilled Electrical Installation & Service Engineer with a passion for innovative technology, we invite you to apply.
+
+Job Type: Full-time
+
+Pay: ₹15,000.00 - ₹25,000.00 per month
+
+Benefits:
+
+* Cell phone reimbursement
+* Health insurance
+
+Application Question(s):
+
+* When can you join?
+* Do you have experience in Electrical work?
+* what is the your last driven Salary?
+* what is your expected Salary?
+* Do you have 2 wheeler?
+
+Willingness to travel:
+
+* 100% (Required)
+
+Work Location: In person","","","","","","","","","","","","","",""
+"li-4411611791","linkedin","Remote","","","https://www.linkedin.com/jobs/view/4411611791","DevOps Engineer - Kubernetes","BNP Paribas","Chennai, Tamil Nadu, India","2026-06-19","",False,"","https://fr.linkedin.com/company/bnp-paribas","","","","","","2026-06-19 11:18:05","","","","","","","","","","","","","","","",""
