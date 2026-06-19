@@ -463,7 +463,7 @@ The ideal candidate combines deep technical expertise with strong organizational
   
 
 #LI-Hybrid  
-#P25309\\\\_3469886
+#P25309\\\\\\\\_3469886
 
 **The Okta Experience**
 
@@ -2728,7 +2728,7 @@ You report into Sales Engineering, and your quality findings carry weight throug
 
 * *As part of our standard hiring process, we would like to inform you that a background check may be conducted at the final stage of recruitment through our third-party provider, Checkr.*
 
-*\\*Please note that Cast AI* *does not* *provide any form of visa sponsorship/work permit.*
+*\\\\*Please note that Cast AI* *does not* *provide any form of visa sponsorship/work permit.*
 
 #LI-Remote","","","","","","","","","","","","","",""
 "in-86d13ca1be84b3ec","indeed","Onsite/Hybrid","","","https://in.indeed.com/viewjob?jk=86d13ca1be84b3ec","DevOps Engineer - IND","Fortanix","KA, IN","2026-06-19","fulltime",False,"","https://in.indeed.com/cmp/Fortanix","","","","","","2026-06-19 08:35:01","https://apply.workable.com/j/29C1AFAA3C","**About Fortanix:**
@@ -3557,3 +3557,446 @@ Work Location: In person","","","","","","","","","","","","","",""
 "li-4429622622","linkedin","Remote","","","https://www.linkedin.com/jobs/view/4429622622","Senior Engineer - Cloud Operations","TBO.COM","Gurugram, Haryana, India","2026-06-19","",False,"","https://in.linkedin.com/company/tbo-com","","","","","","2026-06-19 08:35:01","","","","","","","","","","","","","","","",""
 "li-4430921303","linkedin","Remote","","","https://www.linkedin.com/jobs/view/4430921303","DevOps consultant","NTT DATA North America","Gurgaon, Haryana, India","2026-06-19","",False,"","https://www.linkedin.com/company/ntt-data-americas","","","","","","2026-06-19 08:35:01","","","","","","","","","","","","","","","",""
 "li-4429643311","linkedin","Remote","","","https://www.linkedin.com/jobs/view/4429643311","Tech Lead: Platform Engineering(Azure, IaC & DevOps)- Husky(Guindy, Chennai)","Husky Technologies","Chennai, Tamil Nadu, India","2026-06-19","",False,"","https://ca.linkedin.com/company/husky-technologies","","","","","","2026-06-19 08:35:01","","","","","","","","","","","","","","","",""
+"in-7e461047e54a9148","indeed","Onsite/Hybrid","","","https://in.indeed.com/viewjob?jk=7e461047e54a9148","IN-Director Software Engineering","R1 RCM","UP, IN","2026-06-19","fulltime",False,"","https://in.indeed.com/cmp/R1-Rcm","","","","","","2026-06-19 09:07:06","https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/IN-Director-Software-Engineering_R260000003905","**About R1 RCM**
+
+R1 is the leading provider of technology-driven solutions that transform the patient experience and financial performance of hospitals, health systems and medical groups. We are the one company that combines the deep expertise of a global workforce of revenue cycle professionals with the industry’s most advanced technology platform, encompassing sophisticated analytics, AI, intelligent automation and workflow orchestration.
+
+With over 30,000 employees globally and a robust presence in India, comprising over 17,000 employees across Delhi NCR, Hyderabad, Bangalore, and Chennai, we foster an inclusive culture where every team member feels valued and empowered. Our mission is to transform the healthcare industry by driving efficiency for healthcare systems, hospitals, and physicians.
+
+**Role Overview**
+
+We are seeking a Principal Architect/Director- Software Engineering to lead the design and evolution of scalable, secure, reliable, and high-performance architecture for enterprise RCM platforms. This role focuses on building robust, cloud-native systems that support mission-critical healthcare financial workflows and large-scale integrations. Moreover, leveraging AI/GenAI as an enabling capability within the overall platform is desired.
+
+**Position Title: Director**
+
+**Department / Function: Product and Engineering**
+
+**Reports to: Vice President**
+
+**Location: Noida**
+
+**Key Responsibilities**
+
+* Define and drive enterprise architecture strategy for RCM platforms aligned to business and technology goals.
+* Establish and operationalize architecture pillars, including Scalability, Reliability, Security & compliance, Performance optimization, Operations and Cost optimization.
+* Drive Design-first mindset across engineering organization.
+* Design highly scalable, fault-tolerant, and low-latency systems using microservices and event-driven architectures.
+* Lead cloud-native adoption and optimize infrastructure costs through:
+  + Right-sizing, auto-scaling, and workload optimization
+  + Efficient storage, compute, and data transfer strategies
+* Architect integration frameworks for EHR/EMR, payers, and clearinghouses using APIs and messaging systems.
+* Define and implement data architecture supporting transactional and analytical workloads.
+* Ensure security-by-design and regulatory compliance (HIPAA) across platforms.
+* Establish strong observability, SRE practices, and performance engineering benchmarks.
+* Drive build vs buy vs reuse decisions for platform capabilities.
+* Identify and enable AI/ML and GenAI use cases to enhance automation and efficiency within RCM workflows.
+* Lead architecture governance, design reviews, and technical decision-making forums.
+* Mentor engineering teams and promote engineering excellence and best practices.
+
+**Solution Design and Architecture:**
+
+* Undertake solution design and architectural tasks, ensuring scalability, performance, security, and maintainability of software applications.
+* Conduct architecture reviews and provide recommendations to optimize system design and performance.
+* Evaluate and select appropriate technologies, frameworks, and tools to support product development and delivery.
+* Define and document architectural patterns, guidelines, and best practices for the development teams.
+
+**Required Qualifications**
+
+* 12+ years in software engineering, including 5+ years in architecture leadership roles.
+* Strong expertise in:
+  + Distributed systems, microservices, and API design
+  + Cloud platforms (Azure/AWS/GCP)
+  + High-availability, fault-tolerant system design
+* Experience with data platforms, event streaming (e.g., Kafka), and containerization (Docker, Kubernetes).
+* Deep understanding of scalability, performance, and secure architecture principles.
+
+**Qualification:** Bachelor’s or master’s degree in any field.
+
+**Must have Skills:**
+
+**1.Technical Skills:**
+
+* Proficiency in designing and architecting enterprise-level software solutions using modern technologies and frameworks.
+
+* In-depth knowledge of software development methodologies, architectural patterns, and best practices.
+
+* Hands-on experience with Java or .NET technologies, cloud platforms, microservices, containers, and API design.
+
+* Familiarity with DevOps practices, CI/CD, and agile development methodologies.
+
+**2. Leadership and Communication:**
+
+* Strong leadership skills with a proven ability to influence, motivate, and collaborate with cross-functional teams.
+
+* Excellent communication and presentation skills to effectively convey complex technical concepts to both technical and non-technical stakeholders.
+
+* Ability to work in a fast-paced, dynamic environment and effectively manage competing priorities.
+
+Preferred Qualifications
+
+* Experience in Healthcare / Revenue Cycle Management (RCM) domain.
+* Familiarity with HL7, FHIR, and healthcare integrations.
+* Exposure to AI/ML or GenAI-enabled enterprise solutions.
+
+**Key Competencies**
+
+* Strong architectural and systems thinking
+* Focus on reliability, performance, and engineering excellence
+* Ability to simplify complex systems and drive decisions
+* Leadership and stakeholder management.
+
+Working in an evolving healthcare setting, we use our shared expertise to deliver innovative solutions. Our fast-growing team has opportunities to learn and grow through rewarding interactions, collaboration and the freedom to explore professional interests.
+
+Our associates are given valuable opportunities to contribute, to innovate and create meaningful work that makes an impact in the communities we serve around the world. We also offer a culture of excellence that drives customer success and improves patient care. We believe in giving back to the community and offer a competitive benefits package. To learn more, visit: r1rcm.com
+
+Visit us on Facebook","","","","","","","","","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f32a9e85ea85d519058bf54b3dd5fd6b","http://www.r1rcm.com","Chicago, IL","10,000+","Decline to state","R1 RCM is a leading provider of revenue cycle services and physician advisory services to healthcare providers."
+"li-4430913580","linkedin","Onsite/Hybrid","","","https://www.linkedin.com/jobs/view/4430913580","Senior Observability Engineer L3 Grafana Cloud required at Wipro with immediate/ early joining","Wipro","Gurugram, Haryana, India","2026-06-19","",False,"","https://in.linkedin.com/company/wipro","","","","","","2026-06-19 09:07:06","","","","","","","","","","","","","","","",""
+"in-23d1781ee8a5420d","indeed","Onsite/Hybrid","","","https://in.indeed.com/viewjob?jk=23d1781ee8a5420d","Data Platform Engineer","2K Games","KA, IN","2026-06-19","",False,"","https://in.indeed.com/cmp/2k-Games","","","","","","2026-06-19 09:07:06","https://grnh.se/ga8jo7ls3us","**Who We Are**
+
+2K is headquartered in Novato, California and is a wholly owned label of Take-Two Interactive Software, Inc. (NASDAQ: TTWO). Founded in 2005, 2K Games is a global video game company, publishing titles developed by some of the most influential game development studios in the world. Our studios responsible for developing 2K's portfolio of world-class games across multiple platforms, include Visual Concepts, Firaxis, Hangar 13, CatDaddy, Cloud Chamber, 31st Union, HB Studios, and 2K SportsLab. Our portfolio of titles is expanding due to our global strategic plan, building and acquiring exciting studios whose content continues to inspire all of us! 2K publishes titles in today's most popular gaming genres, including sports, shooters, action, role-playing, strategy, casual, and family entertainment.
+
+Our team of engineers, marketers, artists, writers, data scientists, producers, thinkers and doers, are the professional publishing stewards of 2K's portfolio currently includes several AAA, sports and entertainment brands, including global powerhouse NBA®️ 2K, renowned BioShock®️, Borderlands®️, Mafia, Sid Meier's Civilization®️ and XCOM®️ brands; popular WWE®️ 2K and WWE®️ SuperCard franchises, TopSpin 2K25, as well as the critically and commercially acclaimed PGA TOUR®️ 2K
+
+At 2K, we pride ourselves on creating an inclusive work environment, which means encouraging our teams to Come as You Are and do your best work! We encourage ALL applicants to explore our global positions, even if they don't meet every requirement for the role. If you're interested in the job and think you have what it takes to work at 2K, we encourage you to apply!
+
+**What We Need**
+
+The Data Platform Engineer is responsible for designing and evolving the core architectural foundation of 2K's data ecosystem. While Data Engineers build pipelines and DataOps Engineers manage reliability, the Data Platform Engineer focuses on building the underlying platforms—including Snowflake, Databricks, Kafka, and internal frameworks—that enable self-service data capabilities across the organization. At the P4 level, this role ensures high-performance environment scalability for billions of global player events and creates seamless interoperability between complex data systems.
+
+**What You Will Do**
+
+* **Platform Architecture & Development:** Lead the design, implementation, and optimization of core data platform components, including Snowflake, Databricks, and AWS S3 Data Lakes.
+* **Streaming Infrastructure:** Manage and scale high-throughput streaming systems using Kafka or Kinesis to support real-time game telemetry and low-latency analytics.
+* **Self-Service Enablement:** Develop ""Data-as-a-Service"" (DaaS) features that allow Business Units and Studios to onboard data and manage access with minimal friction.
+* **Distributed Systems Optimization:** Optimize Spark and PySpark applications for performance and cost-efficiency across large-scale distributed clusters.
+* **Security & RBAC Architecture:** Design and automate granular access control models to ensure data security and compliance with global regulations (e.g., GDPR, CCPA).
+* **Interoperability & Standards:** Ensure seamless data flow and interoperability between disparate platforms (utilizing technologies like Apache Iceberg) to maintain a Single Source of Truth (SSOT).
+* **Technical Leadership:** Serve as a subject matter expert for the data platform, translating complex business needs into scalable technical requirements and platform features.
+
+**Who We Think Will Be A Great Fit**
+
+* **Architectural Depth:** Demonstrates a deep understanding of how platform components interact and scale within a global data ecosystem.
+* **Innovation & Efficiency:** Drives the adoption of new technologies and methodologies to improve platform performance and reduce operational overhead.
+* **Problem Solving:** Resolves complex, high-impact technical issues related to distributed systems and data availability.
+* **Collaboration:** Partners effectively with Data Scientists, Data Engineers, and Studio Leads to provide a high-quality developer experience.
+* **Strategic Thinking:** Anticipates future platform needs and aligns architectural decisions with long-term business goals.
+
+**Required Qualifications, Knowledge, and Job-Related Skills**
+
+* **Education:** Bachelor's or Master's degree in Computer Science, Engineering, or a related technical field.
+* **Experience:** 6+ years of professional experience in data platform or distributed systems engineering in high-volume environments.
+* **Core Technical Stack:** Mastery of SQL and Python; expert knowledge of big data processing frameworks like Spark.
+* **Cloud Ecosystem:** Deep proficiency in AWS services (S3, EKS, IAM, SNS/SQS) and extensive experience with Snowflake or Databricks.
+* **Orchestration:** Experience building or extending workflow orchestration platforms like Apache Airflow.
+* **Architecture Mindset:** Strong understanding of data modeling methodologies (Kimball, Inmon, Data Vault) and how they apply to modern cloud data platforms.
+
+**Preferred Qualifications**
+
+* Experience handling high-velocity telemetry from massive live-service ecosystems (e.g., gaming or high-volume consumer tech).
+* Experience with Infrastructure as Code (Terraform) for provisioning data stacks.
+* Knowledge of data observability and cataloging tools (e.g., Monte Carlo, DataHub, or Soda).
+* Experience with containerization (Docker, Kubernetes) in a data platform context.
+* **AI Infrastructure:** Experience building and scaling **Vector Databases** (e.g., Pinecone, Weaviate, or Milvus) to support Retrieval-Augmented Generation (RAG).
+* **Interoperability:** Knowledge of the **Model Context Protocol (MCP)** to enable secure, standardized data sharing between 2K's data repositories and LLM applications.
+* **LLM Data Tooling:** Familiarity with data preparation and governance for fine-tuning Large Language Models.
+
+**What we offer you:**
+
+* **Great Company Culture**. We pride ourselves as being one of the most creative and innovative places to work, creativity, innovation, efficiency, diversity and philanthropy are among the core tenets of our organization and are integral drivers of our continued success.
+* **Growth**: As a global entertainment company, we pride ourselves on creating environments where employees are encouraged to be themselves, inquisitive, collaborative and to grow within and around the company.
+* **Work Hard, Enjoy Life.** Our employees' bond, blow-off steam, and flex some creative muscles – through corporate boot camp classes, company parties, our Office gaming spaces, game release events, monthly socials, and team challenges.
+* **Benefits**. Benefits include, but are not limited to; Discretionary bonus, Provident fund contributions, 1+5 medical insurance + top up options and access to Practo online Doctor consultation App, Employee assistance program, 3X CTC Life Assurance, 3X CTC Personal accident insurance, childcare services, 20 days holiday + statutory holidays,
+* **Perks**. Gym reimbursement up to INR1150 per month, wellbeing program with the chance to earn up to $93 per annum, charitable giving program, access to learning platforms, employee discount program's plus free games and events!
+
+As an equal opportunity employer, we are committed to ensuring that qualified individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform their essential job functions, and to receive other benefits and privileges of employment. Please contact us if you need reasonable accommodation.
+
+Please note that 2K Games and its studios never uses instant messaging apps or personal email accounts to contact prospective employees or conduct interviews and when emailing, only use 2K.com accounts.
+
+#LI-Onsite","","","","","","","","Consumer Goods And Services","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7ffd613e05dbbc2b2d099a7f9826544e","https://2k.com/en-US/","Novato","1,001 to 5,000","$5M to $25M (USD)","Hi, we’re 2K 2K develops and publishes interactive entertainment for video game consoles, personal computers, and mobile devices. Founded in 2005, 2K develops and publishes interactive entertainment"
+"in-369b721b737aad0c","indeed","Onsite/Hybrid","","","https://in.indeed.com/viewjob?jk=369b721b737aad0c","Staff Software Engineer– Python, React, Bigdata, Cloud, GenAI","Visa","KA, IN","2026-06-19","fulltime",False,"","https://in.indeed.com/cmp/Visa","","","","","","2026-06-19 09:07:06","https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Staff-Software-Engineer---Bigdata--Cloud--GenAI_REF083002W","**About Us**  
+Visa is a world leader in payments technology, facilitating transactions between consumers, merchants, financial institutions and government entities across more than 200 countries and territories, dedicated to uplifting everyone, everywhere by being the best way to pay and be paid.
+
+At Visa, you'll have the opportunity to create impact at scale — tackling meaningful challenges, growing your skills and seeing your contributions impact lives around the world.
+
+Join Visa and do work that matters – to you, to your community, and to the world. Progress starts with you.
+
+**Job Description**
+
+This Staff Software Engineer role is for an individual with excellent software engineering with hands-on development experience and a strong foundation in computer science, full-stack development, and AI/ML technologies. This role involves software initiatives, leveraging modern programming languages, cloud platforms, APIs and Generative AI to deliver scalable, high-quality business solutions. Experience on AWS/GCP and Bigdata stack would be a strong plus.
+
+* Design, develop, test and deploy scalable full‑stack software solutions with end‑to‑end ownership.
+* Build and enhance front‑end applications using HTML, CSS, JavaScript, and SQL, applying strong UI/UX principles.
+* Develop and maintain back‑end services using Python, Java, and related technologies, including API design and integration.
+* Leverage Generative AI (GenAI) to drive innovative solutions, improve productivity, testing, and automation.
+* Responsible for Big Data SRE and engineering activities across big data and cloud environments ensuring high performance, reliability and scalability.
+* Develop products, tools and processes to automate day-to-day task.
+* Collaborate with cross‑functional teams to translate business requirements into efficient technical solutions and tools.
+* Excellent interpersonal, verbal, and written communication skills.
+
+This is a hybrid position. Expectations of days in office will be confirmed by your hiring manager.
+
+**Qualifications**
+
+* 7-10 years of work experience and a Bachelor's Degree or 5 years of work experience with an Advanced Degree (e.g. Masters, MBA, JD, MD) or 3 years of experience with a PhD. 1+ year of experience with cloud platforms (AWS/GCP) and/or Big Data technologies (Hadoop, Kafka) is a plus
+* Expertise in one or more programming languages Python(preferred) or Java
+* Hands-on experience in software engineering with strong coding skills
+* Solid foundation in computer science fundamentals and data structures
+* Proficiency in programming languages such as Python or JAVA and relevant AI libraries such as TensorFlow, PyTorch, etc.
+* Experience with full-stack development platforms, including SQL, VS Code, REST, XML, JSON, APIs
+* Strong experience developing front-end (React,HTML, CSS, JavaScript) and back-end services
+* Hands-on experience designing and consuming APIs
+* Demonstrated use of Generative AI in development and testing workflows
+* Experience with LLMs and frameworks such as LangChain or LangGraph
+* Hands-on experience in machine learning, deep learning or reinforcement learning
+* Working knowledge of Linux fundamentals and system concepts (CPU, memory, storage, networking)
+* Experience with cloud platforms (AWS/GCP) and/or Big Data technologies (Hadoop, Kafka) is a plus
+* AWS experience with managed streaming or big-data services such as AWS MSK (Kafka) and/or EMR (preferred), plus cloud fundamentals (networking, IAM/security, observability).
+
+**Visa is an EEO Employer**
+
+Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status. Visa will also consider for employment qualified applicants with criminal histories in a manner consistent with EEOC guidelines and applicable local law.","","","","","","","","","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/860a54ecfd7d7cab270f291d2d877922","http://www.visa.com","","10,000+","more than $10B (USD)","Our Purpose is to... Uplift everyone, everywhere by being the best way to pay and be paid."
+"li-4430932039","linkedin","Onsite/Hybrid","","","https://www.linkedin.com/jobs/view/4430932039","Senior DevOps Engineer","CosmoQuick","Bengaluru South, Karnataka, India","2026-06-19","",False,"","https://in.linkedin.com/company/cosmoquick","","","","","","2026-06-19 09:07:06","","","","","","","","","","","","","","","",""
+"li-4428221790","linkedin","Onsite/Hybrid","","","https://www.linkedin.com/jobs/view/4428221790","Atlassian Platform Engineer","American Express Global Business Travel","Bengaluru East, Karnataka, India","2026-06-19","",False,"","https://www.linkedin.com/company/american-express-global-business-travel","","","","","","2026-06-19 09:07:06","","","","","","","","","","","","","","","",""
+"li-4429642768","linkedin","Onsite/Hybrid","","","https://www.linkedin.com/jobs/view/4429642768","DevOps Engineer","TransUnion","Bengaluru, Karnataka, India","2026-06-19","",False,"","https://www.linkedin.com/company/transunion","","","","","","2026-06-19 09:07:06","","","","","","","","","","","","","","","",""
+"li-4419059914","linkedin","Onsite/Hybrid","","","https://www.linkedin.com/jobs/view/4419059914","Principal Machine Learning Engineer-AgenticAI, GenAi/LLM, , MCP, Python/Golang","Red Hat","Bengaluru, Karnataka, India","2026-06-19","",False,"","https://www.linkedin.com/company/red-hat","","","","","","2026-06-19 09:07:06","","","","","","","","","","","","","","","",""
+"li-4430923369","linkedin","Onsite/Hybrid","","","https://www.linkedin.com/jobs/view/4430923369","Data Platform Engineer","2K","Bengaluru, Karnataka, India","2026-06-19","",False,"","https://www.linkedin.com/company/2k-games","","","","","","2026-06-19 09:07:06","","","","","","","","","","","","","","","",""
+"li-4300659931","linkedin","Onsite/Hybrid","","","https://www.linkedin.com/jobs/view/4300659931","Sr Platform Engineer, Java Fmwk","eBay","Bengaluru, Karnataka, India","2026-06-19","",False,"","https://www.linkedin.com/company/ebay","","","","","","2026-06-19 09:07:06","","","","","","","","","","","","","","","",""
+"li-4429640738","linkedin","Onsite/Hybrid","","","https://www.linkedin.com/jobs/view/4429640738","Software Engineer IV","Sabre","Bengaluru, Karnataka, India","2026-06-19","",False,"","https://www.linkedin.com/company/sabre-corporation","","","","","","2026-06-19 09:07:06","","","","","","","","","","","","","","","",""
+"li-4429351366","linkedin","Onsite/Hybrid","","","https://www.linkedin.com/jobs/view/4429351366","Part-Time Founding Sales Engineer (AI Developer Tools / Engineering Productivity)","Maara AI","Bengaluru, Karnataka, India","2026-06-19","",False,"","https://in.linkedin.com/company/maaraa","","","","","","2026-06-19 09:07:06","","","","","","","","","","","","","","","",""
+"li-4428220743","linkedin","Onsite/Hybrid","","","https://www.linkedin.com/jobs/view/4428220743","Python,Databricks, AWS - Lead I - Software Engineering","UST","Pune Division, Maharashtra, India","2026-06-19","",False,"","https://www.linkedin.com/company/ustglobal","","","","","","2026-06-19 09:07:06","","","","","","","","","","","","","","","",""
+"li-4428217777","linkedin","Onsite/Hybrid","","","https://www.linkedin.com/jobs/view/4428217777","Python ,Databricks, AWs- Lead II - Software Engineering","UST","Pune Division, Maharashtra, India","2026-06-19","",False,"","https://www.linkedin.com/company/ustglobal","","","","","","2026-06-19 09:07:06","","","","","","","","","","","","","","","",""
+"li-4421413643","linkedin","Onsite/Hybrid","","","https://www.linkedin.com/jobs/view/4421413643","Senior Platform Engineer (Cloud Workloads)","Veeam Software","Pune Division, Maharashtra, India","2026-06-19","",False,"","https://www.linkedin.com/company/veeam-software","","","","","","2026-06-19 09:07:06","","","","","","","","","","","","","","","",""
+"li-4429641702","linkedin","Onsite/Hybrid","","","https://www.linkedin.com/jobs/view/4429641702","Software Engineer","Qualys","Pune Division, Maharashtra, India","2026-06-19","",False,"","https://www.linkedin.com/company/qualys","","","","","","2026-06-19 09:07:06","","","","","","","","","","","","","","","",""
+"li-4430932082","linkedin","Onsite/Hybrid","","","https://www.linkedin.com/jobs/view/4430932082","Senior Staff Engineer, Machine Learning Platform","PubMatic","Pune Division, Maharashtra, India","2026-06-19","",False,"","https://www.linkedin.com/company/pubmatic","","","","","","2026-06-19 09:07:06","","","","","","","","","","","","","","","",""
+"in-4ae310fcbd96a447","indeed","Onsite/Hybrid","","","https://in.indeed.com/viewjob?jk=4ae310fcbd96a447","Laptop Service Engineer","GIG Workplace","MH, IN","2026-06-19","fulltime",False,"","https://in.indeed.com/cmp/Gig-Workplace","","","","","","2026-06-19 09:07:06","http://in.indeed.com/job/laptop-service-engineer-4ae310fcbd96a447","Responsibilities
+
+* Diagnose and repair laptops of various brands including Dell, HP, Lenovo, Acer, Asus, and Apple.
+* Troubleshoot and repair hardware issues such as motherboards, screens, keyboards, batteries, charging ports, RAM, SSDs, and cooling systems.
+* Install and configure operating systems, drivers, and software applications.
+* Perform system upgrades, data backup, and data recovery when required.
+* Maintain accurate repair records and job status updates.
+* Provide excellent customer service and explain repair solutions to customers.
+
+Requirements
+
+* **Minimum 1–2 years of experience as a Laptop Repair Technician is mandatory.**
+* Strong knowledge of laptop hardware diagnostics and repair.
+
+Pay: ₹22,000.00 - ₹25,000.00 per month
+
+Benefits:
+
+* Health insurance
+* Provident Fund
+
+Work Location: In person","","","","","","","","","","","","","",""
+"li-4343352243","linkedin","Onsite/Hybrid","","","https://www.linkedin.com/jobs/view/4343352243","IT Infrastructure Analyst","IPS-Integrated Project Services","","2026-06-19","",False,"","https://www.linkedin.com/company/ips","","","","","","2026-06-19 09:07:06","","","","","","","","","","","","","","","",""
+"li-4430908753","linkedin","Onsite/Hybrid","","","https://www.linkedin.com/jobs/view/4430908753","Senior Software Support Engineer L2","IDfy","","2026-06-19","",False,"","https://in.linkedin.com/company/idfy","","","","","","2026-06-19 09:07:06","","","","","","","","","","","","","","","",""
+"in-ce9f890dfe50b3c3","indeed","Remote","","","https://in.indeed.com/viewjob?jk=ce9f890dfe50b3c3","Sr Software Engineer - Azure DevOps","Mindfire Solutions","OR, IN","2026-06-19","",True,"","https://in.indeed.com/cmp/Mindfire-Solutions","","","","","","2026-06-19 09:07:06","https://apply.mindfiresolutions.com/current-openings/details?id=5104&position=Sr%20Software%20Engineer%20-%20Azure%20DevOps","Sr Software Engineer - Azure DevOps
+
+Experience : 4 - 9 years
+
+Bhubaneswar, Delhi - NCR, Remote Working
+
+**About the Job**
+
+Featured
+
+We are looking for a Sr Azure DevOps Engineer to join our team and help drive the success of our DevOps program for enterprise solutions. You will be responsible for development, testing, and deployment processes that are efficient, reliable, and scalable.
+
+**Core Responsibilities**
+
+* Integrate DevOps practices into the software development lifecycle.
+
+* Automate build, test, and deployment processes for fast and reliable releases.
+
+* Collaborate with operations teams to ensure infrastructure is secure, scalable, and reliable.
+
+* Develop and maintain scripts and tools to automate tasks and improve team efficiency.
+
+* Monitor and analyze metrics to identify areas for improvement.
+
+* Manage infrastructure as code with Terraform for Azure resource provisioning.
+
+* Configure and maintain Azure services, including App Service, SQL Database, Application Gateway, Service Bus, Application Insights, Key Vault, and Automation Accounts.
+
+* Manage source control and pipelines using Bitbucket and Azure DevOps.
+
+**Required Skills**
+
+* Hands-on experience with Azure DevOps, Bitbucket, and Terraform.
+
+* Strong experience automating build, test, and deployment pipelines using PowerShell and Azure CLI.
+
+* Proficiency with Azure services: App Service, SQL Database, Application Gateway, Service Bus, Application Insights, Key Vault, and Automation Accounts.
+
+* Understanding of basic Azure networking (VNets, NSGs, private endpoints).
+
+* Strong knowledge of CI/CD principles, agile methodologies, and DevOps best practices.
+
+* Good communication, leadership, and cross-functional collaboration skills.
+
+**Nice to have**
+
+* Experience with Azure Kubernetes Service (AKS).
+
+* Microsoft Azure DevOps Engineer Expert certification.
+
+**Qualifications**
+
+* B.Tech. or M.Tech. in Computer Science or Information Technology.
+
+* 4+ years of experience in DevOps with a focus on enterprise solutions.","","","","","","","","","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/841855488b270d85a188820d660860b6","https://www.mindfiresolutions.com","New Delhi, IN","51 to 200","",""
+"in-0913005b7592d22e","indeed","Remote","","","https://in.indeed.com/viewjob?jk=0913005b7592d22e","Junior Cloud Engineer","BeyonData Solutions","GJ, IN","2026-06-19","fulltime",False,"","https://in.indeed.com/cmp/Beyondata-Solutions","","","","","","2026-06-19 09:07:06","http://in.indeed.com/job/junior-cloud-engineer-0913005b7592d22e","**Job Summary:**   
+We are hiring an experienced and detail-oriented Oracle Cloud Engineer to design, implement, and manage Oracle Cloud infrastructure solutions. The ideal candidate will be responsible for deploying cloud solutions, ensuring seamless connectivity, maintaining high availability and disaster recovery, and optimizing system performance. The role requires strong technical leadership, compliance with security best practices, and effective collaboration with network engineers to support the organization's cloud infrastructure needs.
+
+**Key Responsibilities:**
+
+* Design, implement, and manage Oracle Cloud infrastructure solutions.
+* Deploy Oracle Cloud infrastructure, including setting up networks and establishing connectivity from on-premises to cloud environments.
+* Ensure high availability and disaster recovery for Oracle databases and applications.
+* Configure backups, full stack disaster recovery (FSDR), and Virtual Cloud Networks (VCN).
+* Set up and manage bare metal instances and VMware environments.
+* Implement and manage VPN setups for secure connectivity.
+* Collaborate with network engineers to ensure seamless connectivity and integration with other systems.
+* Monitor system performance, identify issues, and implement solutions to optimize performance.
+* Implement IAM policies, manage user privileges, and ensure secure access controls. Set up dashboards and generate audit reports to monitor system activity and performance.
+* Adhere to and promote security best practices throughout the infrastructure.
+* Develop and maintain comprehensive documentation for system configurations, procedures, and processes.
+* Knowledge of AWS/Azure will be added advantage.
+
+**Qualifications**:
+
+* Bachelor’s degree in computer science, Information Technology, or a related field.
+* Proven experience as an Oracle Cloud Engineer or similar role.
+* Proficiency in Linux administration and shell scripting.
+* Strong understanding of networking principles and connectivity solutions.
+* Experience with monitoring tools and practices to ensure system reliability and performance.
+* In-depth knowledge of Oracle databases, including installation, configuration, and administration.
+* Hands-on experience with ORDS and APEX installation and configuration.
+* Excellent problem-solving skills and attention to detail.
+* Strong communication and collaboration skills.
+
+Pay: ₹200,000.00 - ₹450,000.00 per year
+
+Application Question(s):
+
+* Which cloud platforms and infrastructure have you managed?
+* Do you have hands-on experience with IAM policies, WAF, and log analytics?
+
+Location:
+
+* Ahmedabad, Gujarat (Ahmedabad) (Preferred)
+
+Work Location: In person","","","","","","","","","","","","","",""
+"in-baddb1a2471a625f","indeed","Remote","","","https://in.indeed.com/viewjob?jk=baddb1a2471a625f","Senior Multi-Cloud Engineer (AWS/Azure)","ASSA ABLOY Group","TN, IN","2026-06-19","",False,"","https://in.indeed.com/cmp/Assa-Abloy-Group","","","","","","2026-06-19 09:07:06","https://assaabloy.jobs2web.com/job/Chennai-Senior-Multi-Cloud-Engineer-%28AWSAzure%29-600-032/1406295233/","**Job Title: Senior Multi-Cloud Engineer (AWS/Azure)**
+
+**Job Description**
+
+We are seeking a highly experienced Senior Multi-Cloud Engineer to join our Cloud Operations team. In this critical role, you will be responsible for designing, deploying, and managing cloud environments across both Amazon Web Services (AWS) and Microsoft Azure. You will take ownership of our AWS Organization and Azure Subscription governance, drive security and compliance through proactive monitoring of CloudTrail and Azure Activity Logs, and deliver robust automation solutions using Python, AWS Lambda, and CloudFormation.
+
+This is a hands-on technical role that requires deep expertise across both cloud platforms, a strong security mindset, and the ability to design scalable, cost-optimized, and well-governed cloud architectures.
+
+**Key Responsibilities**
+
+**AWS Organization & Governance**
+
+* Design, manage, and optimize multi-account AWS Organization structures using AWS Control Tower and Service Control Policies (SCPs).
+* Implement and enforce account-level guardrails, IAM policies, and permission boundaries across all AWS accounts.
+* Manage AWS Organization Units (OUs), consolidated billing, and cross-account access strategies.
+
+**Azure Subscription Management**
+
+* Administer and govern Azure Subscriptions, Management Groups, and Resource Groups at enterprise scale.
+* Implement Azure Policy, RBAC, and Blueprints to enforce compliance across all Azure environments.
+* Manage Azure Entra ID (formerly Azure AD), service principals, and managed identities.
+* Oversee Azure cost management, tagging strategies, and subscription-level budget controls.
+
+**Security Monitoring & Compliance**
+
+* Configure, monitor, and analyze AWS CloudTrail logs to detect and respond to anomalous API activity and security events.
+* Manage Azure Monitor and Azure Activity Logs to track resource changes and enforce audit trails.
+* Integrate CloudTrail and Activity Log data with SIEM tools in Datadog for centralized security monitoring.
+* Build automated alerting pipelines for security incidents, unauthorized access, and compliance violations.
+* Conduct regular security reviews and ensure adherence to CIS Benchmarks, NIST, and cloud-native security frameworks.
+
+**Serverless & Automation Engineering** - Design, develop, and deploy AWS Lambda functions for event-driven automation, scheduled jobs, and infrastructure operations. Python preferred
+
+**Infrastructure as Code (IaC) –** Cloud Formation, CDK
+
+**Experience**
+
+* 10+ years of hands-on experience in cloud engineering or infrastructure roles.
+* Minimum 5+ years of deep, production-level experience with AWS services and AWS Organizations.
+* Minimum 4+ years of hands-on experience managing Azure Subscriptions at enterprise scale.
+* Proven track record of operating in regulated, multi-account, multi-subscription cloud environments.
+
+**Certifications (Preferred)**
+
+* AWS Certified Solutions Architect – Professional or AWS Certified DevOps Engineer – Professional.
+* Microsoft Certified: Azure Solutions Architect Expert or Azure Administrator Associate.
+* AWS Certified Security – Specialty (highly advantageous).
+
+**Why Join Us?**
+
+* Opportunity to work with cutting-edge cloud technologies and innovative projects in a platform engineering team.
+* A collaborative work environment that values growth and continuous learning.
+* Build AI Solutions in AWS and Azure.
+
+  
+
+**We are the ASSA ABLOY Group**  
+Our people have made us the global leader in access solutions. In return, we open doors for them wherever they go. With nearly 63,000 colleagues in more than 70 different countries, we help billions of people experience a more open world. Our innovations make all sorts of spaces – physical and virtual – safer, more secure, and easier to access.
+
+As an employer, we value results – not titles, or backgrounds. We empower our people to build their career around their aspirations and our ambitions – supporting them with regular feedback, training, and development opportunities. Our colleagues think broadly about where they can make the most impact, and we encourage them to grow their role locally, regionally, or even internationally.
+
+As we welcome new people on board, it’s important to us to have diverse, inclusive teams, and we value different perspectives and experiences.","","","","","","","","","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f977b0b2bcceb4cbd76b34ea25092c57","https://www.assaabloy.com/","Klarabergsviadukten 90, SE-107 23 Stockholm
+Sweden","10,000+","","Let’s create a safer and more open world – together!"
+"in-7df683b8d4277c57","indeed","Remote","","","https://in.indeed.com/viewjob?jk=7df683b8d4277c57","Senior Cloud Platform Engineer (DevOps)","ASSA ABLOY Group","TN, IN","2026-06-19","",False,"","https://in.indeed.com/cmp/Assa-Abloy-Group","","","","","","2026-06-19 09:07:06","https://assaabloy.jobs2web.com/job/Chennai-Senior-Cloud-Platform-Engineer-%28DevOps%29-600-032/1406295433/","**Job Title: Senior Cloud Platform Engineer (DevOps)**
+
+**Job Description**
+
+We are seeking a skilled Platform Engineer (DevOps)to join our team. This role will focus on deploying and managing scalable cloud infrastructure. The ideal candidate should have 8 + years of multi cloud experience, AWS and Azure preferred with a strong background in automation, serverless architecture, and container orchestration. This is an exciting opportunity to play a key role in our building our cloud and tool platform to support our journey towards a fully automated, resilient, and efficient cloud environment.
+
+**Key Responsibilities**
+
+* Design, deploy, and manage scalable cloud infrastructure using **AWS services** (EC2, S3, Route53, CloudFront, ECS, Kubernetes).
+* Implement Infrastructure as Code (IaC) using **AWS CloudFormation** **or CDK** to automate deployments and streamline infrastructure management.
+* Implement monitoring, logging, and performance optimization of cloud resources.
+* Support in building AI agents using AWS bedrock, Microsoft Copilot Studio.
+* Administration and maintenance for self-hosted tools like Gitlab, Sonar, Nexus & other SaaS tools that are used by other teams.
+
+**Required Skills & Qualifications**
+
+* **8+ years** of experience in cloud engineering, with a strong focus on **AWS**.
+* Proven expertise in using **CloudFormation** or **CDK** for infrastructure automation.
+* Advanced knowledge of **serverless architectures** using **AWS Lambda**.
+* Hands-on experience with **container orchestration** using **Kubernetes** and **AWS ECS**.
+* Strong scripting skills (e.g., Python, Bash, PowerShell).
+* Excellent problem-solving skills and ability to work in a fast-paced environment.
+* AWS cloud practitioner certification.
+
+**Additional Skills**
+
+* Experience with managing & deploying **Gitlab & Sonar server** **for CI/CD pipeline management.**
+* Experience of using ServiceNow for managing tickets.
+* Knowledge of security best practices in cloud environments.
+* Experience in monitoring tools like Datadog, Grafana etc.
+
+**Why Join Us?**
+
+* Opportunity to work with cutting-edge cloud technologies and innovative projects in a platform engineering team.
+* A collaborative work environment that values growth and continuous learning.
+* Build AI Solutions in AWS and Azure.
+
+  
+
+**We are the ASSA ABLOY Group**  
+Our people have made us the global leader in access solutions. In return, we open doors for them wherever they go. With nearly 63,000 colleagues in more than 70 different countries, we help billions of people experience a more open world. Our innovations make all sorts of spaces – physical and virtual – safer, more secure, and easier to access.
+
+As an employer, we value results – not titles, or backgrounds. We empower our people to build their career around their aspirations and our ambitions – supporting them with regular feedback, training, and development opportunities. Our colleagues think broadly about where they can make the most impact, and we encourage them to grow their role locally, regionally, or even internationally.
+
+As we welcome new people on board, it’s important to us to have diverse, inclusive teams, and we value different perspectives and experiences.","","","","","","","","","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f977b0b2bcceb4cbd76b34ea25092c57","https://www.assaabloy.com/","Klarabergsviadukten 90, SE-107 23 Stockholm
+Sweden","10,000+","","Let’s create a safer and more open world – together!"
+"li-4429633773","linkedin","Remote","","","https://www.linkedin.com/jobs/view/4429633773","Freelance Machine Learning Engineer (ML Engineer – GenAI / LLM / Vertex AI)","ThreatXIntel","","2026-06-19","",False,"","https://in.linkedin.com/company/threatxintel","","","","","","2026-06-19 09:07:06","","","","","","","","","","","","","","","",""
+"li-4429636769","linkedin","Remote","","","https://www.linkedin.com/jobs/view/4429636769","Freelance Opportunity | AI Agent Engineer / GenAI Engineer (LLM & Agentic AI)","ThreatXIntel","","2026-06-19","",False,"","https://in.linkedin.com/company/threatxintel","","","","","","2026-06-19 09:07:06","","","","","","","","","","","","","","","",""
