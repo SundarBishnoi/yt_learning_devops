@@ -1,0 +1,16 @@
+ 1. Share architechture designs
+ 2. Write techincal deep dive post about tool you're good at
+ 3. Post about real incidents
+ 4. Post about automation projects
+ 5. Build github profile 
+
+
+ -> share architecure designs on public platform like medium blog, linkedin, and twitter
+    whatever works for your company is the best architechure
+ -> writting techincal deep dive post - lets say you're good with particular tool.. start wrtting the tech deep dive of the tool. 
+    eg. if you are good with kubernetes, start writting about kuberenetes pods, then deployment, then services, then probably gateway apis. As you keep, writting, you will understand, what should be your next post, and that might even come from comment on your post. 
+ -> post about the incidents. If you're working in a company.. you will run into issues.. definately, you will part of fixing an incident. why don't you write about it. It easy and efficient way to build the network. 
+    eg - your kubenetes cluster went down OR your application running in K8s cluster went down for 15 mins.. 
+    Explain how did you solve the issue., you can mask the important details.. and share your knowledge. 
+ -> post about automation projects, even as a hobby project.. you must have automated your regular git commands.. maybe you have  automated kubectl commands.. may be wrapper script around it.. that save 10 min of your time. you might have worked on teraform automation or ci/cd autoamtion. write about it. design an architecture diagram of your autoamtion. use it as picture of your post.. write multiple points on how did you build that autoamtion tool. how did it help you actually. it's good if you can write about time that this automation saves for you. 
+ -> build your github profile.. once you create git repos.. share those repos on linkedin.. someone, who is working on similar and stuck.. they will also come to your profile and share thoughts. 
