@@ -1,0 +1,39 @@
+---
+- name: Install and start nginx
+  hosts: all
+  become: true
+
+  tasks:
+    - name: Install nginx
+      apt:
+        name: nginx
+        state: present
+    - name: Start nginx
+      service:
+        name: nginx
+        state: started
+    - name: Collect nginx service status
+      service:
+        name: nginx
+      register: nginx_status
+    - name: Fail the playbook if nginx is not running
+      fail:
+        msg: "Nginx is stopped!"
+      when: nginx_status.status.ActiveState != 'active'
+    - name: Print success message if Nginx is active.
+      debug:
+        msg: "Nginx is runnig perfectly."
+      when: nginx_status.status.ActiveState == 'active'
+
+    
+# - name: second playbook
+#   hosts: all
+#   become: true
+
+#   tasks:
+#     - name: Install nginx
+#       shell: apt install nginx
+#     - name: Start nginx
+#       shell: systemctl start nginx
+
+
