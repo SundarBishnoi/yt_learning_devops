@@ -1,0 +1,32 @@
+---
+- name: Build a basic web server on target server
+  hosts: all
+  become: true
+
+  tasks:
+    - name: Install nginx
+      apt:
+        name: nginx
+        state: present
+    - name: Start nginx
+      service:
+        name: nginx
+        state: started
+    - name: Deploy a Custom Home Page
+      copy:
+        src: /home/ubuntu/projects/yt_learning_devops/ansible/index.html
+        dest: /var/www/html/index.html
+        mode: '0644'
+    - name: Collect the nginx service status
+      systemd_service:
+        name: nginx
+      register: nginx_server_status
+    - name: Fail the playbook if nginx is not running
+      fail:
+        msg: "nginx is stopped!!"
+      when: nginx_server_status.status.ActiveState != "active"
+    - name: Print Success Message if nginx is active.
+      debug:
+        msg: "Nginx is runnig perfectly."
+      when: nginx_server_status.status.ActiveState == "active"
+
